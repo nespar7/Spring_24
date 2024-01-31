@@ -1,3 +1,1 @@
-## Instructor
-
-[Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/)
+This course is taken by [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) and the materials can be found in the [course website](https://sites.google.com/view/nlp-cs60075/home)
