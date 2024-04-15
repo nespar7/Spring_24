@@ -1,0 +1,4344 @@
+GUM_academic_discrimination-1	1	The	DT
+
+GUM_academic_discrimination-1	2	prevalence	NN
+
+GUM_academic_discrimination-1	3	of	IN
+
+GUM_academic_discrimination-1	4	discrimination	NN
+
+GUM_academic_discrimination-1	5	across	IN
+
+GUM_academic_discrimination-1	6	racial	JJ
+
+GUM_academic_discrimination-1	7	groups	NNS
+
+GUM_academic_discrimination-1	8	in	IN
+
+GUM_academic_discrimination-1	9	contemporary	JJ
+
+GUM_academic_discrimination-1	10	America	NNS
+
+GUM_academic_discrimination-1	11	:	:
+
+GUM_academic_discrimination-2	1	Results	RB
+
+GUM_academic_discrimination-2	2	from	IN
+
+GUM_academic_discrimination-2	3	a	DT
+
+GUM_academic_discrimination-2	4	nationally	JJ
+
+GUM_academic_discrimination-2	5	representative	JJ
+
+GUM_academic_discrimination-2	6	sample	NN
+
+GUM_academic_discrimination-2	7	of	IN
+
+GUM_academic_discrimination-2	8	adults	DT
+
+GUM_academic_discrimination-3	1	Introduction	UH
+
+GUM_academic_discrimination-3	2	.	.
+
+GUM_academic_discrimination-4	1	Personal	JJ
+
+GUM_academic_discrimination-4	2	experiences	NNS
+
+GUM_academic_discrimination-4	3	of	IN
+
+GUM_academic_discrimination-4	4	discrimination	NN
+
+GUM_academic_discrimination-4	5	and	CC
+
+GUM_academic_discrimination-4	6	bias	PRP
+
+GUM_academic_discrimination-4	7	have	VBP
+
+GUM_academic_discrimination-4	8	been	VBN
+
+GUM_academic_discrimination-4	9	the	DT
+
+GUM_academic_discrimination-4	10	focus	NN
+
+GUM_academic_discrimination-4	11	of	IN
+
+GUM_academic_discrimination-4	12	much	DT
+
+GUM_academic_discrimination-4	13	social	JJ
+
+GUM_academic_discrimination-4	14	science	NN
+
+GUM_academic_discrimination-4	15	research	NN
+
+GUM_academic_discrimination-4	16	.	.
+
+GUM_academic_discrimination-4	17	[	-LRB-
+
+GUM_academic_discrimination-4	18	1	CD
+
+GUM_academic_discrimination-4	19	-	HYPH
+
+GUM_academic_discrimination-4	20	3	CD
+
+GUM_academic_discrimination-4	21	]	-RRB-
+
+GUM_academic_discrimination-5	1	Sociologists	PRP
+
+GUM_academic_discrimination-5	2	have	VBP
+
+GUM_academic_discrimination-5	3	explored	IN
+
+GUM_academic_discrimination-5	4	the	DT
+
+GUM_academic_discrimination-5	5	adverse	JJ
+
+GUM_academic_discrimination-5	6	consequences	NNS
+
+GUM_academic_discrimination-5	7	of	IN
+
+GUM_academic_discrimination-5	8	discrimination	NNP
+
+GUM_academic_discrimination-5	9	[	-LRB-
+
+GUM_academic_discrimination-5	10	3	CD
+
+GUM_academic_discrimination-5	11	–	SYM
+
+GUM_academic_discrimination-5	12	5	CD
+
+GUM_academic_discrimination-5	13	]	-RRB-
+
+GUM_academic_discrimination-5	14	;	:
+
+GUM_academic_discrimination-6	1	psychologists	PRP
+
+GUM_academic_discrimination-6	2	have	VBP
+
+GUM_academic_discrimination-6	3	examined	IN
+
+GUM_academic_discrimination-6	4	the	DT
+
+GUM_academic_discrimination-6	5	mental	JJ
+
+GUM_academic_discrimination-6	6	processes	NNS
+
+GUM_academic_discrimination-6	7	that	IN
+
+GUM_academic_discrimination-6	8	underpin	DT
+
+GUM_academic_discrimination-6	9	conscious	NN
+
+GUM_academic_discrimination-6	10	and	CC
+
+GUM_academic_discrimination-6	11	unconscious	NN
+
+GUM_academic_discrimination-6	12	biases	.
+
+GUM_academic_discrimination-6	13	[	-LRB-
+
+GUM_academic_discrimination-6	14	6	CD
+
+GUM_academic_discrimination-6	15	]	-RRB-
+
+GUM_academic_discrimination-6	16	;	:
+
+GUM_academic_discrimination-7	1	neuroscientists	PRP
+
+GUM_academic_discrimination-7	2	have	VBP
+
+GUM_academic_discrimination-7	3	examined	IN
+
+GUM_academic_discrimination-7	4	the	DT
+
+GUM_academic_discrimination-7	5	neurobiological	JJ
+
+GUM_academic_discrimination-7	6	underpinnings	NN
+
+GUM_academic_discrimination-7	7	of	IN
+
+GUM_academic_discrimination-7	8	discrimination	NNP
+
+GUM_academic_discrimination-7	9	[	-LRB-
+
+GUM_academic_discrimination-7	10	7	CD
+
+GUM_academic_discrimination-7	11	–	SYM
+
+GUM_academic_discrimination-7	12	9	CD
+
+GUM_academic_discrimination-7	13	]	-RRB-
+
+GUM_academic_discrimination-7	14	;	:
+
+GUM_academic_discrimination-8	1	and	CC
+
+GUM_academic_discrimination-8	2	evolutionary	JJ
+
+GUM_academic_discrimination-8	3	theorists	NNS
+
+GUM_academic_discrimination-8	4	have	VBP
+
+GUM_academic_discrimination-8	5	explored	IN
+
+GUM_academic_discrimination-8	6	the	DT
+
+GUM_academic_discrimination-8	7	various	JJ
+
+GUM_academic_discrimination-8	8	ways	NNS
+
+GUM_academic_discrimination-8	9	that	IN
+
+GUM_academic_discrimination-8	10	in	IN
+
+GUM_academic_discrimination-8	11	-	DT
+
+GUM_academic_discrimination-8	12	group	NN
+
+GUM_academic_discrimination-8	13	/	SYM
+
+GUM_academic_discrimination-8	14	out	CD
+
+GUM_academic_discrimination-8	15	-	HYPH
+
+GUM_academic_discrimination-8	16	group	NN
+
+GUM_academic_discrimination-8	17	biases	VBZ
+
+GUM_academic_discrimination-8	18	emerged	VBN
+
+GUM_academic_discrimination-8	19	across	IN
+
+GUM_academic_discrimination-8	20	the	DT
+
+GUM_academic_discrimination-8	21	history	NN
+
+GUM_academic_discrimination-8	22	of	IN
+
+GUM_academic_discrimination-8	23	our	PRP$
+
+GUM_academic_discrimination-8	24	species	NN
+
+GUM_academic_discrimination-8	25	.	.
+
+GUM_academic_discrimination-8	26	[	-LRB-
+
+GUM_academic_discrimination-8	27	10	CD
+
+GUM_academic_discrimination-8	28	]	-RRB-
+
+GUM_academic_discrimination-9	1	In	IN
+
+GUM_academic_discrimination-9	2	many	JJ
+
+GUM_academic_discrimination-9	3	respects	NN
+
+GUM_academic_discrimination-9	4	,	,
+
+GUM_academic_discrimination-9	5	researchers	CC
+
+GUM_academic_discrimination-9	6	already	RB
+
+GUM_academic_discrimination-9	7	possess	VB
+
+GUM_academic_discrimination-9	8	a	DT
+
+GUM_academic_discrimination-9	9	wealth	NN
+
+GUM_academic_discrimination-9	10	of	IN
+
+GUM_academic_discrimination-9	11	knowledge	NN
+
+GUM_academic_discrimination-9	12	concerning	IN
+
+GUM_academic_discrimination-9	13	the	DT
+
+GUM_academic_discrimination-9	14	origins	NN
+
+GUM_academic_discrimination-9	15	and	CC
+
+GUM_academic_discrimination-9	16	consequences	NNS
+
+GUM_academic_discrimination-9	17	of	IN
+
+GUM_academic_discrimination-9	18	discrimination	NN
+
+GUM_academic_discrimination-9	19	and	CC
+
+GUM_academic_discrimination-9	20	bias	NN
+
+GUM_academic_discrimination-9	21	.	.
+
+GUM_academic_discrimination-9	22	[	-LRB-
+
+GUM_academic_discrimination-9	23	11	CD
+
+GUM_academic_discrimination-9	24	]	-RRB-
+
+GUM_academic_discrimination-10	1	What	_
+
+GUM_academic_discrimination-10	2	also	PRP
+
+GUM_academic_discrimination-10	3	should	MD
+
+GUM_academic_discrimination-10	4	not	RB
+
+GUM_academic_discrimination-10	5	be	VB
+
+GUM_academic_discrimination-10	6	lost	VBN
+
+GUM_academic_discrimination-10	7	in	IN
+
+GUM_academic_discrimination-10	8	discussion	NN
+
+GUM_academic_discrimination-10	9	of	IN
+
+GUM_academic_discrimination-10	10	discrimination	DT
+
+GUM_academic_discrimination-10	11	is	VBZ
+
+GUM_academic_discrimination-10	12	the	DT
+
+GUM_academic_discrimination-10	13	growing	JJ
+
+GUM_academic_discrimination-10	14	push	NN
+
+GUM_academic_discrimination-10	15	to	IN
+
+GUM_academic_discrimination-10	16	implement	DT
+
+GUM_academic_discrimination-10	17	social	JJ
+
+GUM_academic_discrimination-10	18	policy	NN
+
+GUM_academic_discrimination-10	19	aimed	NN
+
+GUM_academic_discrimination-10	20	at	IN
+
+GUM_academic_discrimination-10	21	reducing	VBG
+
+GUM_academic_discrimination-10	22	the	DT
+
+GUM_academic_discrimination-10	23	occurrence	NN
+
+GUM_academic_discrimination-10	24	of	IN
+
+GUM_academic_discrimination-10	25	discriminatory	DT
+
+GUM_academic_discrimination-10	26	practices	NN
+
+GUM_academic_discrimination-10	27	.	.
+
+GUM_academic_discrimination-11	1	Mandatory	DT
+
+GUM_academic_discrimination-11	2	diversity	NN
+
+GUM_academic_discrimination-11	3	trainings	NN
+
+GUM_academic_discrimination-11	4	in	IN
+
+GUM_academic_discrimination-11	5	professional	JJ
+
+GUM_academic_discrimination-11	6	settings	NN
+
+GUM_academic_discrimination-11	7	,	,
+
+GUM_academic_discrimination-11	8	for	IN
+
+GUM_academic_discrimination-11	9	example	NN
+
+GUM_academic_discrimination-11	10	,	,
+
+GUM_academic_discrimination-11	11	are	VBP
+
+GUM_academic_discrimination-11	12	intended	VBN
+
+GUM_academic_discrimination-11	13	to	IN
+
+GUM_academic_discrimination-11	14	reduce	DT
+
+GUM_academic_discrimination-11	15	bias	NN
+
+GUM_academic_discrimination-11	16	in	IN
+
+GUM_academic_discrimination-11	17	the	DT
+
+GUM_academic_discrimination-11	18	workplace	NN
+
+GUM_academic_discrimination-11	19	by	IN
+
+GUM_academic_discrimination-11	20	increasing	VBG
+
+GUM_academic_discrimination-11	21	the	DT
+
+GUM_academic_discrimination-11	22	awareness	NN
+
+GUM_academic_discrimination-11	23	of	IN
+
+GUM_academic_discrimination-11	24	employees	NNS
+
+GUM_academic_discrimination-11	25	regarding	IN
+
+GUM_academic_discrimination-11	26	the	DT
+
+GUM_academic_discrimination-11	27	challenges	NN
+
+GUM_academic_discrimination-11	28	facing	IN
+
+GUM_academic_discrimination-11	29	minority	DT
+
+GUM_academic_discrimination-11	30	group	NN
+
+GUM_academic_discrimination-11	31	members	NNS
+
+GUM_academic_discrimination-11	32	.	.
+
+GUM_academic_discrimination-11	33	[	-LRB-
+
+GUM_academic_discrimination-11	34	12	CD
+
+GUM_academic_discrimination-11	35	]	-RRB-
+
+GUM_academic_discrimination-12	1	Indeed	UH
+
+GUM_academic_discrimination-12	2	,	,
+
+GUM_academic_discrimination-12	3	the	DT
+
+GUM_academic_discrimination-12	4	implementation	NN
+
+GUM_academic_discrimination-12	5	of	IN
+
+GUM_academic_discrimination-12	6	certain	DT
+
+GUM_academic_discrimination-12	7	policies	NN
+
+GUM_academic_discrimination-12	8	is	VBZ
+
+GUM_academic_discrimination-12	9	rooted	VBN
+
+GUM_academic_discrimination-12	10	in	IN
+
+GUM_academic_discrimination-12	11	the	DT
+
+GUM_academic_discrimination-12	12	assumption	NN
+
+GUM_academic_discrimination-12	13	that	IN
+
+GUM_academic_discrimination-12	14	discrimination	NN
+
+GUM_academic_discrimination-12	15	and	CC
+
+GUM_academic_discrimination-12	16	biases	PRP
+
+GUM_academic_discrimination-12	17	are	VBP
+
+GUM_academic_discrimination-12	18	,	,
+
+GUM_academic_discrimination-12	19	at	IN
+
+GUM_academic_discrimination-12	20	least	NN
+
+GUM_academic_discrimination-12	21	to	IN
+
+GUM_academic_discrimination-12	22	some	DT
+
+GUM_academic_discrimination-12	23	appreciable	JJ
+
+GUM_academic_discrimination-12	24	amount	NN
+
+GUM_academic_discrimination-12	25	,	,
+
+GUM_academic_discrimination-12	26	present	NN
+
+GUM_academic_discrimination-12	27	in	IN
+
+GUM_academic_discrimination-12	28	modern	JJ
+
+GUM_academic_discrimination-12	29	society	NN
+
+GUM_academic_discrimination-12	30	.	.
+
+GUM_academic_discrimination-13	1	Even	RB
+
+GUM_academic_discrimination-13	2	so	RB
+
+GUM_academic_discrimination-13	3	,	,
+
+GUM_academic_discrimination-13	4	estimates	CC
+
+GUM_academic_discrimination-13	5	of	IN
+
+GUM_academic_discrimination-13	6	the	DT
+
+GUM_academic_discrimination-13	7	prevalence	NN
+
+GUM_academic_discrimination-13	8	of	IN
+
+GUM_academic_discrimination-13	9	perceived	DT
+
+GUM_academic_discrimination-13	10	discrimination	JJ
+
+GUM_academic_discrimination-13	11	remains	NNS
+
+GUM_academic_discrimination-13	12	rare	.
+
+GUM_academic_discrimination-13	13	(	-LRB-
+
+GUM_academic_discrimination-13	14	see	NNP
+
+GUM_academic_discrimination-13	15	[	-LRB-
+
+GUM_academic_discrimination-13	16	13	CD
+
+GUM_academic_discrimination-13	17	–	SYM
+
+GUM_academic_discrimination-13	18	14	CD
+
+GUM_academic_discrimination-13	19	]	-RRB-
+
+GUM_academic_discrimination-13	20	)	-RRB-
+
+GUM_academic_discrimination-13	21	.	.
+
+GUM_academic_discrimination-14	1	At	IN
+
+GUM_academic_discrimination-14	2	least	DT
+
+GUM_academic_discrimination-14	3	one	NN
+
+GUM_academic_discrimination-14	4	prior	IN
+
+GUM_academic_discrimination-14	5	study	NN
+
+GUM_academic_discrimination-14	6	by	IN
+
+GUM_academic_discrimination-14	7	Kessler	NN
+
+GUM_academic_discrimination-14	8	and	CC
+
+GUM_academic_discrimination-14	9	colleagues	NNP
+
+GUM_academic_discrimination-14	10	[	-LRB-
+
+GUM_academic_discrimination-14	11	15	CD
+
+GUM_academic_discrimination-14	12	]	-RRB-
+
+GUM_academic_discrimination-14	13	,	,
+
+GUM_academic_discrimination-14	14	however	RB
+
+GUM_academic_discrimination-14	15	,	,
+
+GUM_academic_discrimination-14	16	using	VBG
+
+GUM_academic_discrimination-14	17	measures	NN
+
+GUM_academic_discrimination-14	18	of	IN
+
+GUM_academic_discrimination-14	19	perceived	DT
+
+GUM_academic_discrimination-14	20	discrimination	NN
+
+GUM_academic_discrimination-14	21	in	IN
+
+GUM_academic_discrimination-14	22	a	DT
+
+GUM_academic_discrimination-14	23	large	JJ
+
+GUM_academic_discrimination-14	24	American	JJ
+
+GUM_academic_discrimination-14	25	sample	NN
+
+GUM_academic_discrimination-14	26	,	,
+
+GUM_academic_discrimination-14	27	reported	CC
+
+GUM_academic_discrimination-14	28	that	IN
+
+GUM_academic_discrimination-14	29	approximately	DT
+
+GUM_academic_discrimination-14	30	33	JJ
+
+GUM_academic_discrimination-14	31	%	NN
+
+GUM_academic_discrimination-14	32	of	IN
+
+GUM_academic_discrimination-14	33	respondents	PRP
+
+GUM_academic_discrimination-14	34	reported	VBD
+
+GUM_academic_discrimination-14	35	some	DT
+
+GUM_academic_discrimination-14	36	form	NN
+
+GUM_academic_discrimination-14	37	of	IN
+
+GUM_academic_discrimination-14	38	discrimination	NNP
+
+GUM_academic_discrimination-14	39	(	-LRB-
+
+GUM_academic_discrimination-14	40	see	CD
+
+GUM_academic_discrimination-14	41	also	-RRB-
+
+GUM_academic_discrimination-14	42	,	,
+
+GUM_academic_discrimination-14	43	Gibbons	NNP
+
+GUM_academic_discrimination-14	44	et	NNP
+
+GUM_academic_discrimination-14	45	al.	.
+
+GUM_academic_discrimination-14	46	[	-LRB-
+
+GUM_academic_discrimination-14	47	4	CD
+
+GUM_academic_discrimination-14	48	]	-RRB-
+
+GUM_academic_discrimination-14	49	)	-RRB-
+
+GUM_academic_discrimination-14	50	.	.
+
+GUM_academic_discrimination-15	1	The	DT
+
+GUM_academic_discrimination-15	2	current	JJ
+
+GUM_academic_discrimination-15	3	study	NN
+
+GUM_academic_discrimination-15	4	seeks	NN
+
+GUM_academic_discrimination-15	5	to	IN
+
+GUM_academic_discrimination-15	6	build	NN
+
+GUM_academic_discrimination-15	7	on	IN
+
+GUM_academic_discrimination-15	8	this	DT
+
+GUM_academic_discrimination-15	9	research	NN
+
+GUM_academic_discrimination-15	10	by	IN
+
+GUM_academic_discrimination-15	11	estimating	VBG
+
+GUM_academic_discrimination-15	12	the	DT
+
+GUM_academic_discrimination-15	13	prevalence	NN
+
+GUM_academic_discrimination-15	14	of	IN
+
+GUM_academic_discrimination-15	15	discrimination	DT
+
+GUM_academic_discrimination-15	16	experiences	NN
+
+GUM_academic_discrimination-15	17	among	IN
+
+GUM_academic_discrimination-15	18	a	DT
+
+GUM_academic_discrimination-15	19	large	JJ
+
+GUM_academic_discrimination-15	20	,	,
+
+GUM_academic_discrimination-15	21	nationally	DT
+
+GUM_academic_discrimination-15	22	representative	JJ
+
+GUM_academic_discrimination-15	23	sample	NN
+
+GUM_academic_discrimination-15	24	of	IN
+
+GUM_academic_discrimination-15	25	adults	NN
+
+GUM_academic_discrimination-15	26	from	IN
+
+GUM_academic_discrimination-15	27	the	DT
+
+GUM_academic_discrimination-15	28	United	NNP
+
+GUM_academic_discrimination-15	29	States	NNPS
+
+GUM_academic_discrimination-15	30	.	.
+
+GUM_academic_discrimination-16	1	Additionally	UH
+
+GUM_academic_discrimination-16	2	,	,
+
+GUM_academic_discrimination-16	3	the	DT
+
+GUM_academic_discrimination-16	4	analysis	NN
+
+GUM_academic_discrimination-16	5	address	IN
+
+GUM_academic_discrimination-16	6	the	DT
+
+GUM_academic_discrimination-16	7	perceived	JJ
+
+GUM_academic_discrimination-16	8	reasons	NNS
+
+GUM_academic_discrimination-16	9	for	IN
+
+GUM_academic_discrimination-16	10	reported	DT
+
+GUM_academic_discrimination-16	11	discrimination	JJ
+
+GUM_academic_discrimination-16	12	experiences	NNS
+
+GUM_academic_discrimination-16	13	.	.
+
+GUM_academic_discrimination-17	1	Reason	RB
+
+GUM_academic_discrimination-17	2	for	IN
+
+GUM_academic_discrimination-17	3	discrimination	NN
+
+GUM_academic_discrimination-17	4	.	.
+
+GUM_academic_discrimination-18	1	All	UH
+
+GUM_academic_discrimination-18	2	respondents	,
+
+GUM_academic_discrimination-18	3	who	WP
+
+GUM_academic_discrimination-18	4	indicated	VBD
+
+GUM_academic_discrimination-18	5	they	PRP
+
+GUM_academic_discrimination-18	6	were	VBD
+
+GUM_academic_discrimination-18	7	discriminated	VBN
+
+GUM_academic_discrimination-18	8	against	IN
+
+GUM_academic_discrimination-18	9	—	DT
+
+GUM_academic_discrimination-18	10	specifically	NN
+
+GUM_academic_discrimination-18	11	,	,
+
+GUM_academic_discrimination-18	12	those	DT
+
+GUM_academic_discrimination-18	13	who	JJ
+
+GUM_academic_discrimination-18	14	responded	NN
+
+GUM_academic_discrimination-18	15	with	IN
+
+GUM_academic_discrimination-18	16	sometimes	NN
+
+GUM_academic_discrimination-18	17	or	CC
+
+GUM_academic_discrimination-18	18	often	RB
+
+GUM_academic_discrimination-18	19	to	IN
+
+GUM_academic_discrimination-18	20	the	DT
+
+GUM_academic_discrimination-18	21	perceived	NN
+
+GUM_academic_discrimination-18	22	discrimination	.
+
+GUM_academic_discrimination-18	23	measure	-LRB-
+
+GUM_academic_discrimination-18	24	described	CD
+
+GUM_academic_discrimination-18	25	above	-RRB-
+
+GUM_academic_discrimination-18	26	—	:
+
+GUM_academic_discrimination-18	27	were	VBD
+
+GUM_academic_discrimination-18	28	asked	IN
+
+GUM_academic_discrimination-18	29	the	DT
+
+GUM_academic_discrimination-18	30	following	JJ
+
+GUM_academic_discrimination-18	31	question	NN
+
+GUM_academic_discrimination-18	32	:	:
+
+GUM_academic_discrimination-19	1	“	PRP
+
+GUM_academic_discrimination-19	2	What	MD
+
+GUM_academic_discrimination-19	3	do	VB
+
+GUM_academic_discrimination-19	4	you	PRP
+
+GUM_academic_discrimination-19	5	think	RB
+
+GUM_academic_discrimination-19	6	was	VBD
+
+GUM_academic_discrimination-19	7	the	DT
+
+GUM_academic_discrimination-19	8	main	JJ
+
+GUM_academic_discrimination-19	9	reason	NN
+
+GUM_academic_discrimination-19	10	for	IN
+
+GUM_academic_discrimination-19	11	these	DT
+
+GUM_academic_discrimination-19	12	experiences	NN
+
+GUM_academic_discrimination-19	13	?	.
+
+GUM_academic_discrimination-19	14	”	''
+
+GUM_academic_discrimination-20	1	Respondents	PRP
+
+GUM_academic_discrimination-20	2	were	VBD
+
+GUM_academic_discrimination-20	3	allowed	VBN
+
+GUM_academic_discrimination-20	4	to	IN
+
+GUM_academic_discrimination-20	5	choose	DT
+
+GUM_academic_discrimination-20	6	one	NN
+
+GUM_academic_discrimination-20	7	response	NN
+
+GUM_academic_discrimination-20	8	from	IN
+
+GUM_academic_discrimination-20	9	11	CD
+
+GUM_academic_discrimination-20	10	categories	-RRB-
+
+GUM_academic_discrimination-20	11	.	.
+
+GUM_academic_discrimination-21	1	For	IN
+
+GUM_academic_discrimination-21	2	the	DT
+
+GUM_academic_discrimination-21	3	present	JJ
+
+GUM_academic_discrimination-21	4	analysis	NN
+
+GUM_academic_discrimination-21	5	,	,
+
+GUM_academic_discrimination-21	6	these	DT
+
+GUM_academic_discrimination-21	7	responses	NNS
+
+GUM_academic_discrimination-21	8	were	VBD
+
+GUM_academic_discrimination-21	9	recoded	VBN
+
+GUM_academic_discrimination-21	10	into	IN
+
+GUM_academic_discrimination-21	11	nine	DT
+
+GUM_academic_discrimination-21	12	mutually	NN
+
+GUM_academic_discrimination-21	13	exclusive	IN
+
+GUM_academic_discrimination-21	14	categories	NNS
+
+GUM_academic_discrimination-21	15	capturing	IN
+
+GUM_academic_discrimination-21	16	the	DT
+
+GUM_academic_discrimination-21	17	following	JJ
+
+GUM_academic_discrimination-21	18	options	NNS
+
+GUM_academic_discrimination-21	19	:	:
+
+GUM_academic_discrimination-22	1	race	IN
+
+GUM_academic_discrimination-22	2	/	DT
+
+GUM_academic_discrimination-22	3	ancestry	NN
+
+GUM_academic_discrimination-22	4	/	.
+
+GUM_academic_discrimination-22	5	skin	-LRB-
+
+GUM_academic_discrimination-22	6	color	CD
+
+GUM_academic_discrimination-22	7	;	:
+
+GUM_academic_discrimination-23	1	gender	UH
+
+GUM_academic_discrimination-23	2	;	:
+
+GUM_academic_discrimination-24	1	age	UH
+
+GUM_academic_discrimination-24	2	;	:
+
+GUM_academic_discrimination-25	1	religion	UH
+
+GUM_academic_discrimination-25	2	;	:
+
+GUM_academic_discrimination-26	1	height	NN
+
+GUM_academic_discrimination-26	2	or	CC
+
+GUM_academic_discrimination-26	3	weight	NN
+
+GUM_academic_discrimination-26	4	;	:
+
+GUM_academic_discrimination-27	1	sexual	DT
+
+GUM_academic_discrimination-27	2	orientation	NN
+
+GUM_academic_discrimination-27	3	;	:
+
+GUM_academic_discrimination-28	1	education	NN
+
+GUM_academic_discrimination-28	2	or	CC
+
+GUM_academic_discrimination-28	3	income	NN
+
+GUM_academic_discrimination-28	4	;	:
+
+GUM_academic_discrimination-29	1	physical	UH
+
+GUM_academic_discrimination-29	2	disability	UH
+
+GUM_academic_discrimination-29	3	;	:
+
+GUM_academic_discrimination-30	1	and	CC
+
+GUM_academic_discrimination-30	2	other	JJ
+
+GUM_academic_discrimination-30	3	.	.
+
+GUM_academic_discrimination-31	1	The	DT
+
+GUM_academic_discrimination-31	2	following	JJ
+
+GUM_academic_discrimination-31	3	categories	NNS
+
+GUM_academic_discrimination-31	4	from	IN
+
+GUM_academic_discrimination-31	5	the	DT
+
+GUM_academic_discrimination-31	6	original	JJ
+
+GUM_academic_discrimination-31	7	questionnaire	NN
+
+GUM_academic_discrimination-31	8	were	VBD
+
+GUM_academic_discrimination-31	9	collapsed	VBN
+
+GUM_academic_discrimination-31	10	into	IN
+
+GUM_academic_discrimination-31	11	one	CD
+
+GUM_academic_discrimination-31	12	category	NNS
+
+GUM_academic_discrimination-31	13	for	IN
+
+GUM_academic_discrimination-31	14	the	DT
+
+GUM_academic_discrimination-31	15	analysis	NN
+
+GUM_academic_discrimination-31	16	:	:
+
+GUM_academic_discrimination-31	17	race	UH
+
+GUM_academic_discrimination-31	18	;	:
+
+GUM_academic_discrimination-31	19	ancestry	NN
+
+GUM_academic_discrimination-31	20	or	CC
+
+GUM_academic_discrimination-31	21	national	JJ
+
+GUM_academic_discrimination-31	22	origin	NN
+
+GUM_academic_discrimination-31	23	;	:
+
+GUM_academic_discrimination-31	24	and	CC
+
+GUM_academic_discrimination-31	25	shade	NN
+
+GUM_academic_discrimination-31	26	of	IN
+
+GUM_academic_discrimination-31	27	skin	DT
+
+GUM_academic_discrimination-31	28	color	NN
+
+GUM_academic_discrimination-31	29	.	.
+
+GUM_academic_discrimination-32	1	Additionally	UH
+
+GUM_academic_discrimination-32	2	,	,
+
+GUM_academic_discrimination-32	3	because	IN
+
+GUM_academic_discrimination-32	4	this	DT
+
+GUM_academic_discrimination-32	5	question	NN
+
+GUM_academic_discrimination-32	6	was	VBD
+
+GUM_academic_discrimination-32	7	only	RB
+
+GUM_academic_discrimination-32	8	asked	VBN
+
+GUM_academic_discrimination-32	9	of	IN
+
+GUM_academic_discrimination-32	10	respondents	DT
+
+GUM_academic_discrimination-32	11	who	NN
+
+GUM_academic_discrimination-32	12	reported	.
+
+GUM_academic_discrimination-32	13	prior	-LRB-
+
+GUM_academic_discrimination-32	14	discrimination	CD
+
+GUM_academic_discrimination-32	15	experiences	-RRB-
+
+GUM_academic_discrimination-32	16	,	,
+
+GUM_academic_discrimination-32	17	the	DT
+
+GUM_academic_discrimination-32	18	built	NN
+
+GUM_academic_discrimination-32	19	-	HYPH
+
+GUM_academic_discrimination-32	20	in	IN
+
+GUM_academic_discrimination-32	21	skip	DT
+
+GUM_academic_discrimination-32	22	pattern	JJ
+
+GUM_academic_discrimination-32	23	resulted	NN
+
+GUM_academic_discrimination-32	24	in	IN
+
+GUM_academic_discrimination-32	25	a	DT
+
+GUM_academic_discrimination-32	26	large	JJ
+
+GUM_academic_discrimination-32	27	number	NN
+
+GUM_academic_discrimination-32	28	of	IN
+
+GUM_academic_discrimination-32	29	cases	DT
+
+GUM_academic_discrimination-32	30	scored	NN
+
+GUM_academic_discrimination-32	31	as	IN
+
+GUM_academic_discrimination-32	32	missing	NNP
+
+GUM_academic_discrimination-32	33	(	-LRB-
+
+GUM_academic_discrimination-32	34	legitimate	CD
+
+GUM_academic_discrimination-32	35	skip	CD
+
+GUM_academic_discrimination-32	36	)	-RRB-
+
+GUM_academic_discrimination-32	37	.	.
+
+GUM_academic_discrimination-33	1	Respondent	UH
+
+GUM_academic_discrimination-33	2	race	UH
+
+GUM_academic_discrimination-33	3	.	.
+
+GUM_academic_discrimination-34	1	Because	IN
+
+GUM_academic_discrimination-34	2	a	DT
+
+GUM_academic_discrimination-34	3	race	JJ
+
+GUM_academic_discrimination-34	4	variable	NN
+
+GUM_academic_discrimination-34	5	is	VBZ
+
+GUM_academic_discrimination-34	6	not	RB
+
+GUM_academic_discrimination-34	7	available	VBN
+
+GUM_academic_discrimination-34	8	from	IN
+
+GUM_academic_discrimination-34	9	the	DT
+
+GUM_academic_discrimination-34	10	Wave	NNP
+
+GUM_academic_discrimination-34	11	4	CD
+
+GUM_academic_discrimination-34	12	interviews	-RRB-
+
+GUM_academic_discrimination-34	13	,	,
+
+GUM_academic_discrimination-34	14	we	PRP
+
+GUM_academic_discrimination-34	15	use	VBP
+
+GUM_academic_discrimination-34	16	the	DT
+
+GUM_academic_discrimination-34	17	racial	JJ
+
+GUM_academic_discrimination-34	18	category	NN
+
+GUM_academic_discrimination-34	19	reported	NN
+
+GUM_academic_discrimination-34	20	by	IN
+
+GUM_academic_discrimination-34	21	the	DT
+
+GUM_academic_discrimination-34	22	respondent	NN
+
+GUM_academic_discrimination-34	23	during	IN
+
+GUM_academic_discrimination-34	24	the	DT
+
+GUM_academic_discrimination-34	25	Wave	NNP
+
+GUM_academic_discrimination-34	26	1	CD
+
+GUM_academic_discrimination-34	27	interview	-RRB-
+
+GUM_academic_discrimination-34	28	.	.
+
+GUM_academic_discrimination-35	1	Wave	NNP
+
+GUM_academic_discrimination-35	2	1	CD
+
+GUM_academic_discrimination-35	3	race	-RRB-
+
+GUM_academic_discrimination-35	4	—	.
+
+GUM_academic_discrimination-35	5	rather	-LRB-
+
+GUM_academic_discrimination-35	6	than	CD
+
+GUM_academic_discrimination-35	7	,	,
+
+GUM_academic_discrimination-35	8	say	NNP
+
+GUM_academic_discrimination-35	9	,	,
+
+GUM_academic_discrimination-35	10	Wave	NNP
+
+GUM_academic_discrimination-35	11	3	CD
+
+GUM_academic_discrimination-35	12	race	-RRB-
+
+GUM_academic_discrimination-35	13	—	:
+
+GUM_academic_discrimination-35	14	was	VBD
+
+GUM_academic_discrimination-35	15	used	VBN
+
+GUM_academic_discrimination-35	16	to	IN
+
+GUM_academic_discrimination-35	17	preserve	DT
+
+GUM_academic_discrimination-35	18	case	NN
+
+GUM_academic_discrimination-35	19	counts	NN
+
+GUM_academic_discrimination-35	20	.	.
+
+GUM_academic_discrimination-36	1	The	DT
+
+GUM_academic_discrimination-36	2	logic	NN
+
+GUM_academic_discrimination-36	3	is	VBZ
+
+GUM_academic_discrimination-36	4	that	DT
+
+GUM_academic_discrimination-36	5	(	-LRB-
+
+GUM_academic_discrimination-36	6	nearly	CD
+
+GUM_academic_discrimination-36	7	)	-RRB-
+
+GUM_academic_discrimination-36	8	all	.
+
+GUM_academic_discrimination-36	9	Wave	-LRB-
+
+GUM_academic_discrimination-36	10	4	CD
+
+GUM_academic_discrimination-36	11	respondents	-RRB-
+
+GUM_academic_discrimination-36	12	appeared	VBD
+
+GUM_academic_discrimination-36	13	in	IN
+
+GUM_academic_discrimination-36	14	the	DT
+
+GUM_academic_discrimination-36	15	Wave	NNP
+
+GUM_academic_discrimination-36	16	1	CD
+
+GUM_academic_discrimination-36	17	sample	-RRB-
+
+GUM_academic_discrimination-36	18	,	,
+
+GUM_academic_discrimination-36	19	but	CC
+
+GUM_academic_discrimination-36	20	not	RB
+
+GUM_academic_discrimination-36	21	all	DT
+
+GUM_academic_discrimination-36	22	would	MD
+
+GUM_academic_discrimination-36	23	have	VB
+
+GUM_academic_discrimination-36	24	been	VBN
+
+GUM_academic_discrimination-36	25	interviewed	VBN
+
+GUM_academic_discrimination-36	26	at	IN
+
+GUM_academic_discrimination-36	27	Wave	NNP
+
+GUM_academic_discrimination-36	28	3	CD
+
+GUM_academic_discrimination-36	29	due	NNS
+
+GUM_academic_discrimination-36	30	to	IN
+
+GUM_academic_discrimination-36	31	differential	DT
+
+GUM_academic_discrimination-36	32	patterns	NN
+
+GUM_academic_discrimination-36	33	of	IN
+
+GUM_academic_discrimination-36	34	temporary	DT
+
+GUM_academic_discrimination-36	35	attrition	NN
+
+GUM_academic_discrimination-36	36	.	.
+
+GUM_academic_discrimination-37	1	Respondents	PRP
+
+GUM_academic_discrimination-37	2	were	VBD
+
+GUM_academic_discrimination-37	3	asked	VBN
+
+GUM_academic_discrimination-37	4	to	TO
+
+GUM_academic_discrimination-37	5	indicate	VB
+
+GUM_academic_discrimination-37	6	their	PRP$
+
+GUM_academic_discrimination-37	7	race	NN
+
+GUM_academic_discrimination-37	8	from	IN
+
+GUM_academic_discrimination-37	9	among	IN
+
+GUM_academic_discrimination-37	10	the	DT
+
+GUM_academic_discrimination-37	11	following	NN
+
+GUM_academic_discrimination-37	12	categories	.
+
+GUM_academic_discrimination-37	13	:	-LRB-
+
+GUM_academic_discrimination-37	14	White	CD
+
+GUM_academic_discrimination-37	15	;	-RRB-
+
+GUM_academic_discrimination-37	16	Black	,
+
+GUM_academic_discrimination-37	17	or	CC
+
+GUM_academic_discrimination-37	18	African	NNP
+
+GUM_academic_discrimination-37	19	American	NNP
+
+GUM_academic_discrimination-37	20	;	:
+
+GUM_academic_discrimination-37	21	Hispanic	UH
+
+GUM_academic_discrimination-37	22	;	:
+
+GUM_academic_discrimination-37	23	American	NNP
+
+GUM_academic_discrimination-37	24	Indian	,
+
+GUM_academic_discrimination-37	25	or	CC
+
+GUM_academic_discrimination-37	26	Native	NNP
+
+GUM_academic_discrimination-37	27	American	NNP
+
+GUM_academic_discrimination-37	28	;	:
+
+GUM_academic_discrimination-37	29	and	CC
+
+GUM_academic_discrimination-37	30	Asian	NNP
+
+GUM_academic_discrimination-37	31	or	CC
+
+GUM_academic_discrimination-37	32	Pacific	CD
+
+GUM_academic_discrimination-37	33	Islander	-RRB-
+
+GUM_academic_discrimination-37	34	.	.
+
+GUM_academic_discrimination-38	1	Respondents	PRP
+
+GUM_academic_discrimination-38	2	were	VBD
+
+GUM_academic_discrimination-38	3	provided	IN
+
+GUM_academic_discrimination-38	4	the	DT
+
+GUM_academic_discrimination-38	5	opportunity	NN
+
+GUM_academic_discrimination-38	6	to	IN
+
+GUM_academic_discrimination-38	7	select	DT
+
+GUM_academic_discrimination-38	8	more	NN
+
+GUM_academic_discrimination-38	9	than	IN
+
+GUM_academic_discrimination-38	10	one	CD
+
+GUM_academic_discrimination-38	11	race	-RRB-
+
+GUM_academic_discrimination-38	12	,	,
+
+GUM_academic_discrimination-38	13	and	CC
+
+GUM_academic_discrimination-38	14	those	DT
+
+GUM_academic_discrimination-38	15	who	WP
+
+GUM_academic_discrimination-38	16	did	VBD
+
+GUM_academic_discrimination-38	17	were	VBN
+
+GUM_academic_discrimination-38	18	asked	IN
+
+GUM_academic_discrimination-38	19	a	DT
+
+GUM_academic_discrimination-38	20	follow	NN
+
+GUM_academic_discrimination-38	21	-	HYPH
+
+GUM_academic_discrimination-38	22	up	JJ
+
+GUM_academic_discrimination-38	23	question	NN
+
+GUM_academic_discrimination-38	24	regarding	,
+
+GUM_academic_discrimination-38	25	which	WDT
+
+GUM_academic_discrimination-38	26	category	VBZ
+
+GUM_academic_discrimination-38	27	best	VBN
+
+GUM_academic_discrimination-38	28	described	IN
+
+GUM_academic_discrimination-38	29	their	PRP$
+
+GUM_academic_discrimination-38	30	racial	JJ
+
+GUM_academic_discrimination-38	31	background	NN
+
+GUM_academic_discrimination-38	32	.	.
+
+GUM_academic_discrimination-39	1	In	IN
+
+GUM_academic_discrimination-39	2	the	DT
+
+GUM_academic_discrimination-39	3	current	JJ
+
+GUM_academic_discrimination-39	4	study	NN
+
+GUM_academic_discrimination-39	5	,	,
+
+GUM_academic_discrimination-39	6	those	DT
+
+GUM_academic_discrimination-39	7	respondents	NN
+
+GUM_academic_discrimination-39	8	who	IN
+
+GUM_academic_discrimination-39	9	indicated	DT
+
+GUM_academic_discrimination-39	10	more	NN
+
+GUM_academic_discrimination-39	11	than	IN
+
+GUM_academic_discrimination-39	12	one	CD
+
+GUM_academic_discrimination-39	13	race	-RRB-
+
+GUM_academic_discrimination-39	14	were	VBD
+
+GUM_academic_discrimination-39	15	coded	VBN
+
+GUM_academic_discrimination-39	16	as	IN
+
+GUM_academic_discrimination-39	17	“	DT
+
+GUM_academic_discrimination-39	18	mixed	NN
+
+GUM_academic_discrimination-39	19	race	.
+
+GUM_academic_discrimination-39	20	”	''
+
+GUM_academic_discrimination-39	21	.	.
+
+GUM_academic_discrimination-40	1	Demographic	UH
+
+GUM_academic_discrimination-40	2	variables	UH
+
+GUM_academic_discrimination-40	3	.	.
+
+GUM_academic_discrimination-41	1	To	IN
+
+GUM_academic_discrimination-41	2	provide	DT
+
+GUM_academic_discrimination-41	3	information	NN
+
+GUM_academic_discrimination-41	4	on	IN
+
+GUM_academic_discrimination-41	5	the	DT
+
+GUM_academic_discrimination-41	6	analytical	JJ
+
+GUM_academic_discrimination-41	7	sample	NN
+
+GUM_academic_discrimination-41	8	as	IN
+
+GUM_academic_discrimination-41	9	a	DT
+
+GUM_academic_discrimination-41	10	whole	NN
+
+GUM_academic_discrimination-41	11	,	,
+
+GUM_academic_discrimination-41	12	two	CD
+
+GUM_academic_discrimination-41	13	additional	-RRB-
+
+GUM_academic_discrimination-41	14	demographic	,
+
+GUM_academic_discrimination-41	15	variables	PRP
+
+GUM_academic_discrimination-41	16	are	VBP
+
+GUM_academic_discrimination-41	17	included	VBN
+
+GUM_academic_discrimination-41	18	.	.
+
+GUM_academic_discrimination-42	1	First	RB
+
+GUM_academic_discrimination-42	2	,	,
+
+GUM_academic_discrimination-42	3	age	NN
+
+GUM_academic_discrimination-42	4	is	VBZ
+
+GUM_academic_discrimination-42	5	a	DT
+
+GUM_academic_discrimination-42	6	continuous	NN
+
+GUM_academic_discrimination-42	7	measure	VBZ
+
+GUM_academic_discrimination-42	8	created	VBN
+
+GUM_academic_discrimination-42	9	by	IN
+
+GUM_academic_discrimination-42	10	subtracting	VBG
+
+GUM_academic_discrimination-42	11	the	DT
+
+GUM_academic_discrimination-42	12	year	NN
+
+GUM_academic_discrimination-42	13	of	IN
+
+GUM_academic_discrimination-42	14	the	DT
+
+GUM_academic_discrimination-42	15	respondents'	NN
+
+GUM_academic_discrimination-42	16	respondents	.
+
+GUM_academic_discrimination-42	17	'	''
+
+GUM_academic_discrimination-42	18	birth	.
+
+GUM_academic_discrimination-42	19	(	-LRB-
+
+GUM_academic_discrimination-42	20	obtained	VBN
+
+GUM_academic_discrimination-42	21	from	IN
+
+GUM_academic_discrimination-42	22	Wave	NNP
+
+GUM_academic_discrimination-42	23	1	CD
+
+GUM_academic_discrimination-42	24	)	-RRB-
+
+GUM_academic_discrimination-42	25	from	IN
+
+GUM_academic_discrimination-42	26	the	DT
+
+GUM_academic_discrimination-42	27	year	NN
+
+GUM_academic_discrimination-42	28	of	IN
+
+GUM_academic_discrimination-42	29	the	DT
+
+GUM_academic_discrimination-42	30	interview	NN
+
+GUM_academic_discrimination-42	31	at	IN
+
+GUM_academic_discrimination-42	32	Wave	NNP
+
+GUM_academic_discrimination-42	33	4	CD
+
+GUM_academic_discrimination-42	34	.	.
+
+GUM_academic_discrimination-43	1	Second	RB
+
+GUM_academic_discrimination-43	2	,	,
+
+GUM_academic_discrimination-43	3	sex	PRP
+
+GUM_academic_discrimination-43	4	was	VBD
+
+GUM_academic_discrimination-43	5	dichotomously	TO
+
+GUM_academic_discrimination-43	6	coded	VB
+
+GUM_academic_discrimination-43	7	based	VBN
+
+GUM_academic_discrimination-43	8	on	IN
+
+GUM_academic_discrimination-43	9	the	DT
+
+GUM_academic_discrimination-43	10	self	NN
+
+GUM_academic_discrimination-43	11	-	HYPH
+
+GUM_academic_discrimination-43	12	reported	JJ
+
+GUM_academic_discrimination-43	13	sex	NN
+
+GUM_academic_discrimination-43	14	of	IN
+
+GUM_academic_discrimination-43	15	the	DT
+
+GUM_academic_discrimination-43	16	respondent	NN
+
+GUM_academic_discrimination-43	17	at	IN
+
+GUM_academic_discrimination-43	18	Wave	NNP
+
+GUM_academic_discrimination-43	19	4	.
+
+GUM_academic_discrimination-43	20	(	-LRB-
+
+GUM_academic_discrimination-43	21	0	CD
+
+GUM_academic_discrimination-43	22	=	-RRB-
+
+GUM_academic_discrimination-43	23	female	,
+
+GUM_academic_discrimination-43	24	and	CC
+
+GUM_academic_discrimination-43	25	1	CD
+
+GUM_academic_discrimination-43	26	=	SYM
+
+GUM_academic_discrimination-43	27	male	CD
+
+GUM_academic_discrimination-43	28	)	-RRB-
+
+GUM_academic_discrimination-43	29	.	.
+
+GUM_academic_discrimination-44	1	Analytical	DT
+
+GUM_academic_discrimination-44	2	plan	NN
+
+GUM_academic_discrimination-44	3	.	.
+
+GUM_academic_discrimination-45	1	Our	PRP$
+
+GUM_academic_discrimination-45	2	exploratory	JJ
+
+GUM_academic_discrimination-45	3	study	NN
+
+GUM_academic_discrimination-45	4	included	.
+
+GUM_academic_discrimination-45	5	three	-LRB-
+
+GUM_academic_discrimination-45	6	basic	CD
+
+GUM_academic_discrimination-45	7	steps	-RRB-
+
+GUM_academic_discrimination-45	8	.	.
+
+GUM_academic_discrimination-46	1	First	RB
+
+GUM_academic_discrimination-46	2	,	,
+
+GUM_academic_discrimination-46	3	summary	DT
+
+GUM_academic_discrimination-46	4	statistics	NN
+
+GUM_academic_discrimination-46	5	of	IN
+
+GUM_academic_discrimination-46	6	the	DT
+
+GUM_academic_discrimination-46	7	study	NN
+
+GUM_academic_discrimination-46	8	variables	,
+
+GUM_academic_discrimination-46	9	and	CC
+
+GUM_academic_discrimination-46	10	racial	JJ
+
+GUM_academic_discrimination-46	11	categories	NNS
+
+GUM_academic_discrimination-46	12	were	VBD
+
+GUM_academic_discrimination-46	13	produced	VBN
+
+GUM_academic_discrimination-46	14	.	.
+
+GUM_academic_discrimination-47	1	Second	RB
+
+GUM_academic_discrimination-47	2	,	,
+
+GUM_academic_discrimination-47	3	we	PRP
+
+GUM_academic_discrimination-47	4	examined	VBD
+
+GUM_academic_discrimination-47	5	the	DT
+
+GUM_academic_discrimination-47	6	relative	JJ
+
+GUM_academic_discrimination-47	7	proportions	NN
+
+GUM_academic_discrimination-47	8	of	IN
+
+GUM_academic_discrimination-47	9	the	DT
+
+GUM_academic_discrimination-47	10	two	CD
+
+GUM_academic_discrimination-47	11	discrimination	.
+
+GUM_academic_discrimination-47	12	experience	-LRB-
+
+GUM_academic_discrimination-47	13	measures	CD
+
+GUM_academic_discrimination-47	14	across	IN
+
+GUM_academic_discrimination-47	15	each	DT
+
+GUM_academic_discrimination-47	16	racial	JJ
+
+GUM_academic_discrimination-47	17	category	NN
+
+GUM_academic_discrimination-47	18	.	.
+
+GUM_academic_discrimination-48	1	Finally	RB
+
+GUM_academic_discrimination-48	2	,	,
+
+GUM_academic_discrimination-48	3	we	PRP
+
+GUM_academic_discrimination-48	4	assessed	VBD
+
+GUM_academic_discrimination-48	5	the	DT
+
+GUM_academic_discrimination-48	6	distribution	NN
+
+GUM_academic_discrimination-48	7	of	IN
+
+GUM_academic_discrimination-48	8	reported	DT
+
+GUM_academic_discrimination-48	9	reasons	NNS
+
+GUM_academic_discrimination-48	10	for	IN
+
+GUM_academic_discrimination-48	11	discrimination	NN
+
+GUM_academic_discrimination-48	12	across	IN
+
+GUM_academic_discrimination-48	13	the	DT
+
+GUM_academic_discrimination-48	14	racial	JJ
+
+GUM_academic_discrimination-48	15	categories	NNS
+
+GUM_academic_discrimination-48	16	.	.
+
+GUM_academic_discrimination-49	1	In	IN
+
+GUM_academic_discrimination-49	2	order	NN
+
+GUM_academic_discrimination-49	3	to	IN
+
+GUM_academic_discrimination-49	4	examine	DT
+
+GUM_academic_discrimination-49	5	potential	NN
+
+GUM_academic_discrimination-49	6	bivariate	IN
+
+GUM_academic_discrimination-49	7	associations	NNP
+
+GUM_academic_discrimination-49	8	,	,
+
+GUM_academic_discrimination-49	9	the	DT
+
+GUM_academic_discrimination-49	10	adjusted	JJ
+
+GUM_academic_discrimination-49	11	F	NN
+
+GUM_academic_discrimination-49	12	statistic	.
+
+GUM_academic_discrimination-49	13	(	-LRB-
+
+GUM_academic_discrimination-49	14	design	CD
+
+GUM_academic_discrimination-49	15	-	HYPH
+
+GUM_academic_discrimination-49	16	based	VBN
+
+GUM_academic_discrimination-49	17	F	CD
+
+GUM_academic_discrimination-49	18	)	-RRB-
+
+GUM_academic_discrimination-49	19	was	VBD
+
+GUM_academic_discrimination-49	20	employed	VBN
+
+GUM_academic_discrimination-49	21	as	IN
+
+GUM_academic_discrimination-49	22	it	PRP
+
+GUM_academic_discrimination-49	23	corrects	VBD
+
+GUM_academic_discrimination-49	24	for	IN
+
+GUM_academic_discrimination-49	25	a	DT
+
+GUM_academic_discrimination-49	26	complex	JJ
+
+GUM_academic_discrimination-49	27	sample	NN
+
+GUM_academic_discrimination-49	28	design	IN
+
+GUM_academic_discrimination-49	29	such	JJ
+
+GUM_academic_discrimination-49	30	as	IN
+
+GUM_academic_discrimination-49	31	that	DT
+
+GUM_academic_discrimination-49	32	used	VBN
+
+GUM_academic_discrimination-49	33	in	IN
+
+GUM_academic_discrimination-49	34	the	DT
+
+GUM_academic_discrimination-49	35	Add	JJ
+
+GUM_academic_discrimination-49	36	Health	NN
+
+GUM_academic_discrimination-49	37	.	.
+
+GUM_academic_discrimination-49	38	[	-LRB-
+
+GUM_academic_discrimination-49	39	21	CD
+
+GUM_academic_discrimination-49	40	]	-RRB-
+
+GUM_academic_discrimination-50	1	More	PRP
+
+GUM_academic_discrimination-50	2	specifically	RB
+
+GUM_academic_discrimination-50	3	,	,
+
+GUM_academic_discrimination-50	4	when	WRB
+
+GUM_academic_discrimination-50	5	analyzing	DT
+
+GUM_academic_discrimination-50	6	weighted	JJ
+
+GUM_academic_discrimination-50	7	sample	NN
+
+GUM_academic_discrimination-50	8	data	NNS
+
+GUM_academic_discrimination-50	9	employing	IN
+
+GUM_academic_discrimination-50	10	the	DT
+
+GUM_academic_discrimination-50	11	svy	JJ
+
+GUM_academic_discrimination-50	12	suite	NN
+
+GUM_academic_discrimination-50	13	of	IN
+
+GUM_academic_discrimination-50	14	commands	NN
+
+GUM_academic_discrimination-50	15	in	IN
+
+GUM_academic_discrimination-50	16	Stata	VBG
+
+GUM_academic_discrimination-50	17	the	DT
+
+GUM_academic_discrimination-50	18	conventional	JJ
+
+GUM_academic_discrimination-50	19	Pearson	NN
+
+GUM_academic_discrimination-50	20	χ2	IN
+
+GUM_academic_discrimination-50	21	statistic	DT
+
+GUM_academic_discrimination-50	22	test	NN
+
+GUM_academic_discrimination-50	23	of	IN
+
+GUM_academic_discrimination-50	24	independence	DT
+
+GUM_academic_discrimination-50	25	is	VBZ
+
+GUM_academic_discrimination-50	26	converted	VBN
+
+GUM_academic_discrimination-50	27	into	IN
+
+GUM_academic_discrimination-50	28	“	``
+
+GUM_academic_discrimination-50	29	an	DT
+
+GUM_academic_discrimination-50	30	F	JJ
+
+GUM_academic_discrimination-50	31	statistic	NN
+
+GUM_academic_discrimination-50	32	with	IN
+
+GUM_academic_discrimination-50	33	noninteger	DT
+
+GUM_academic_discrimination-50	34	degrees	NNS
+
+GUM_academic_discrimination-50	35	of	IN
+
+GUM_academic_discrimination-50	36	freedom	NN
+
+GUM_academic_discrimination-50	37	by	IN
+
+GUM_academic_discrimination-50	38	using	VBG
+
+GUM_academic_discrimination-50	39	a	DT
+
+GUM_academic_discrimination-50	40	second	JJ
+
+GUM_academic_discrimination-50	41	-	HYPH
+
+GUM_academic_discrimination-50	42	order	NN
+
+GUM_academic_discrimination-50	43	Rao	,
+
+GUM_academic_discrimination-50	44	and	CC
+
+GUM_academic_discrimination-50	45	Scott	NNP
+
+GUM_academic_discrimination-50	46	(	-LRB-
+
+GUM_academic_discrimination-50	47	1981	CD
+
+GUM_academic_discrimination-50	48	[	-LRB-
+
+GUM_academic_discrimination-50	49	22	CD
+
+GUM_academic_discrimination-50	50	]	-RRB-
+
+GUM_academic_discrimination-50	51	,	,
+
+GUM_academic_discrimination-50	52	1984	NNP
+
+GUM_academic_discrimination-50	53	[	-LRB-
+
+GUM_academic_discrimination-50	54	23	CD
+
+GUM_academic_discrimination-50	55	]	-RRB-
+
+GUM_academic_discrimination-50	56	)	-RRB-
+
+GUM_academic_discrimination-50	57	correction	.
+
+GUM_academic_discrimination-50	58	”	''
+
+GUM_academic_discrimination-50	59	.	.
+
+GUM_academic_discrimination-50	60	[	-LRB-
+
+GUM_academic_discrimination-50	61	24	CD
+
+GUM_academic_discrimination-50	62	]	-RRB-
+
+GUM_academic_discrimination-51	1	The	DT
+
+GUM_academic_discrimination-51	2	p	NN
+
+GUM_academic_discrimination-51	3	-	HYPH
+
+GUM_academic_discrimination-51	4	value	NN
+
+GUM_academic_discrimination-51	5	associated	VBN
+
+GUM_academic_discrimination-51	6	with	IN
+
+GUM_academic_discrimination-51	7	the	DT
+
+GUM_academic_discrimination-51	8	design	NN
+
+GUM_academic_discrimination-51	9	-	HYPH
+
+GUM_academic_discrimination-51	10	based	VBN
+
+GUM_academic_discrimination-51	11	F	NN
+
+GUM_academic_discrimination-51	12	is	VBZ
+
+GUM_academic_discrimination-51	13	thus	RB
+
+GUM_academic_discrimination-51	14	more	RBR
+
+GUM_academic_discrimination-51	15	accurate	.
+
+GUM_academic_discrimination-51	16	(	-LRB-
+
+GUM_academic_discrimination-51	17	than	IN
+
+GUM_academic_discrimination-51	18	the	DT
+
+GUM_academic_discrimination-51	19	associated	NN
+
+GUM_academic_discrimination-51	20	with	IN
+
+GUM_academic_discrimination-51	21	the	DT
+
+GUM_academic_discrimination-51	22	χ2	NNP
+
+GUM_academic_discrimination-51	23	statistic	CD
+
+GUM_academic_discrimination-51	24	)	-RRB-
+
+GUM_academic_discrimination-51	25	given	,
+
+GUM_academic_discrimination-51	26	the	DT
+
+GUM_academic_discrimination-51	27	adjustments	NN
+
+GUM_academic_discrimination-51	28	and	CC
+
+GUM_academic_discrimination-51	29	calculations	RB
+
+GUM_academic_discrimination-51	30	take	VB
+
+GUM_academic_discrimination-51	31	into	IN
+
+GUM_academic_discrimination-51	32	account	VBG
+
+GUM_academic_discrimination-51	33	the	DT
+
+GUM_academic_discrimination-51	34	weighted	JJ
+
+GUM_academic_discrimination-51	35	nature	NN
+
+GUM_academic_discrimination-51	36	of	IN
+
+GUM_academic_discrimination-51	37	the	DT
+
+GUM_academic_discrimination-51	38	data	NNS
+
+GUM_academic_discrimination-51	39	.	.
+
+GUM_academic_discrimination-52	1	This	DT
+
+GUM_academic_discrimination-52	2	final	JJ
+
+GUM_academic_discrimination-52	3	step	NN
+
+GUM_academic_discrimination-52	4	also	RB
+
+GUM_academic_discrimination-52	5	included	IN
+
+GUM_academic_discrimination-52	6	an	DT
+
+GUM_academic_discrimination-52	7	examination	NN
+
+GUM_academic_discrimination-52	8	of	IN
+
+GUM_academic_discrimination-52	9	the	DT
+
+GUM_academic_discrimination-52	10	relative	JJ
+
+GUM_academic_discrimination-52	11	distribution	NN
+
+GUM_academic_discrimination-52	12	of	IN
+
+GUM_academic_discrimination-52	13	racial	JJ
+
+GUM_academic_discrimination-52	14	categories	NNS
+
+GUM_academic_discrimination-52	15	across	IN
+
+GUM_academic_discrimination-52	16	the	DT
+
+GUM_academic_discrimination-52	17	various	JJ
+
+GUM_academic_discrimination-52	18	reported	JJ
+
+GUM_academic_discrimination-52	19	reasons	NNS
+
+GUM_academic_discrimination-52	20	for	IN
+
+GUM_academic_discrimination-52	21	discrimination	NN
+
+GUM_academic_discrimination-52	22	.	.
+
+GUM_academic_discrimination-53	1	As	IN
+
+GUM_academic_discrimination-53	2	noted	DT
+
+GUM_academic_discrimination-53	3	earlier	NN
+
+GUM_academic_discrimination-53	4	,	,
+
+GUM_academic_discrimination-53	5	all	DT
+
+GUM_academic_discrimination-53	6	analyses	NNS
+
+GUM_academic_discrimination-53	7	were	VBD
+
+GUM_academic_discrimination-53	8	weighted	DT
+
+GUM_academic_discrimination-53	9	according	NN
+
+GUM_academic_discrimination-53	10	to	IN
+
+GUM_academic_discrimination-53	11	the	DT
+
+GUM_academic_discrimination-53	12	survey	NN
+
+GUM_academic_discrimination-53	13	weight	VBZ
+
+GUM_academic_discrimination-53	14	provided	VBN
+
+GUM_academic_discrimination-53	15	by	IN
+
+GUM_academic_discrimination-53	16	the	DT
+
+GUM_academic_discrimination-53	17	Add	NN
+
+GUM_academic_discrimination-53	18	Health	IN
+
+GUM_academic_discrimination-53	19	research	NN
+
+GUM_academic_discrimination-53	20	staff	,
+
+GUM_academic_discrimination-53	21	and	CC
+
+GUM_academic_discrimination-53	22	standard	JJ
+
+GUM_academic_discrimination-53	23	errors	NNS
+
+GUM_academic_discrimination-53	24	were	VBD
+
+GUM_academic_discrimination-53	25	corrected	VBN
+
+GUM_academic_discrimination-53	26	for	IN
+
+GUM_academic_discrimination-53	27	the	DT
+
+GUM_academic_discrimination-53	28	clustering	NN
+
+GUM_academic_discrimination-53	29	and	CC
+
+GUM_academic_discrimination-53	30	stratification	NN
+
+GUM_academic_discrimination-53	31	that	IN
+
+GUM_academic_discrimination-53	32	defined	VBG
+
+GUM_academic_discrimination-53	33	the	DT
+
+GUM_academic_discrimination-53	34	sampling	JJ
+
+GUM_academic_discrimination-53	35	strategy	NN
+
+GUM_academic_discrimination-53	36	.	.
+
+GUM_academic_discrimination-54	1	Thus	RB
+
+GUM_academic_discrimination-54	2	,	,
+
+GUM_academic_discrimination-54	3	all	DT
+
+GUM_academic_discrimination-54	4	estimates	NN
+
+GUM_academic_discrimination-54	5	reported	VBD
+
+GUM_academic_discrimination-54	6	here	RB
+
+GUM_academic_discrimination-54	7	can	MD
+
+GUM_academic_discrimination-54	8	be	VB
+
+GUM_academic_discrimination-54	9	considered	VBN
+
+GUM_academic_discrimination-54	10	nationally	IN
+
+GUM_academic_discrimination-54	11	representative	NN
+
+GUM_academic_discrimination-54	12	of	IN
+
+GUM_academic_discrimination-54	13	the	DT
+
+GUM_academic_discrimination-54	14	United	NNP
+
+GUM_academic_discrimination-54	15	States	NNPS
+
+GUM_academic_discrimination-54	16	.	.
+
+GUM_academic_eegimaa-1	1	2.	IN
+
+GUM_academic_eegimaa-1	2	GUJJOLAAY	DT
+
+GUM_academic_eegimaa-1	3	EEGIMAA	NN
+
+GUM_academic_eegimaa-1	4	,	,
+
+GUM_academic_eegimaa-1	5	ITS	CD
+
+GUM_academic_eegimaa-1	6	SPEAKERS	-RRB-
+
+GUM_academic_eegimaa-1	7	AND	.
+
+GUM_academic_eegimaa-1	8	THEIR	-LRB-
+
+GUM_academic_eegimaa-1	9	NEIGHBOURS	CD
+
+GUM_academic_eegimaa-2	1	This	DT
+
+GUM_academic_eegimaa-2	2	section	JJ
+
+GUM_academic_eegimaa-2	3	briefly	NN
+
+GUM_academic_eegimaa-2	4	presents	IN
+
+GUM_academic_eegimaa-2	5	the	DT
+
+GUM_academic_eegimaa-2	6	Gújjolaay	NN
+
+GUM_academic_eegimaa-2	7	Eegimaa	.
+
+GUM_academic_eegimaa-2	8	(	-LRB-
+
+GUM_academic_eegimaa-2	9	Eegimaa	CD
+
+GUM_academic_eegimaa-2	10	for	IN
+
+GUM_academic_eegimaa-2	11	short	JJ
+
+GUM_academic_eegimaa-2	12	;	NN
+
+GUM_academic_eegimaa-2	13	Ethnologue	.
+
+GUM_academic_eegimaa-2	14	code	-LRB-
+
+GUM_academic_eegimaa-2	15	:	CD
+
+GUM_academic_eegimaa-2	16	ISO	-RRB-
+
+GUM_academic_eegimaa-2	17	639-3	.
+
+GUM_academic_eegimaa-2	18	:	-LRB-
+
+GUM_academic_eegimaa-2	19	bqj	CD
+
+GUM_academic_eegimaa-2	20	)	-RRB-
+
+GUM_academic_eegimaa-2	21	,	,
+
+GUM_academic_eegimaa-2	22	its	PRP$
+
+GUM_academic_eegimaa-2	23	speakers	NN
+
+GUM_academic_eegimaa-2	24	and	CC
+
+GUM_academic_eegimaa-2	25	its	PRP$
+
+GUM_academic_eegimaa-2	26	varieties	NN
+
+GUM_academic_eegimaa-2	27	.	.
+
+GUM_academic_eegimaa-3	1	We	PRP
+
+GUM_academic_eegimaa-3	2	also	RB
+
+GUM_academic_eegimaa-3	3	discuss	JJ
+
+GUM_academic_eegimaa-3	4	aspects	NNS
+
+GUM_academic_eegimaa-3	5	of	IN
+
+GUM_academic_eegimaa-3	6	the	DT
+
+GUM_academic_eegimaa-3	7	contact	JJ
+
+GUM_academic_eegimaa-3	8	situation	NN
+
+GUM_academic_eegimaa-3	9	of	IN
+
+GUM_academic_eegimaa-3	10	the	DT
+
+GUM_academic_eegimaa-3	11	Eegimaa	JJ
+
+GUM_academic_eegimaa-3	12	language	NN
+
+GUM_academic_eegimaa-3	13	.	.
+
+GUM_academic_eegimaa-4	1	This	DT
+
+GUM_academic_eegimaa-4	2	is	VBZ
+
+GUM_academic_eegimaa-4	3	important	JJ
+
+GUM_academic_eegimaa-4	4	,	,
+
+GUM_academic_eegimaa-4	5	because	IN
+
+GUM_academic_eegimaa-4	6	as	IN
+
+GUM_academic_eegimaa-4	7	we	PRP
+
+GUM_academic_eegimaa-4	8	will	MD
+
+GUM_academic_eegimaa-4	9	show	VB
+
+GUM_academic_eegimaa-4	10	in	IN
+
+GUM_academic_eegimaa-4	11	§	NNP
+
+GUM_academic_eegimaa-4	12	6	CD
+
+GUM_academic_eegimaa-4	13	below	-RRB-
+
+GUM_academic_eegimaa-4	14	,	,
+
+GUM_academic_eegimaa-4	15	some	DT
+
+GUM_academic_eegimaa-4	16	of	IN
+
+GUM_academic_eegimaa-4	17	the	DT
+
+GUM_academic_eegimaa-4	18	Eegimaa	JJ
+
+GUM_academic_eegimaa-4	19	death	NN
+
+GUM_academic_eegimaa-4	20	prevention	NN
+
+GUM_academic_eegimaa-4	21	names	,
+
+GUM_academic_eegimaa-4	22	and	CC
+
+GUM_academic_eegimaa-4	23	child	NN
+
+GUM_academic_eegimaa-4	24	-	HYPH
+
+GUM_academic_eegimaa-4	25	bearing	JJ
+
+GUM_academic_eegimaa-4	26	names	NNS
+
+GUM_academic_eegimaa-4	27	are	VBP
+
+GUM_academic_eegimaa-4	28	given	VBN
+
+GUM_academic_eegimaa-4	29	to	IN
+
+GUM_academic_eegimaa-4	30	Eegimaa	DT
+
+GUM_academic_eegimaa-4	31	people	NNS
+
+GUM_academic_eegimaa-4	32	from	IN
+
+GUM_academic_eegimaa-4	33	other	JJ
+
+GUM_academic_eegimaa-4	34	communities	NNS
+
+GUM_academic_eegimaa-4	35	.	.
+
+GUM_academic_eegimaa-5	1	Eegimaa	PRP
+
+GUM_academic_eegimaa-5	2	is	VBZ
+
+GUM_academic_eegimaa-5	3	a	DT
+
+GUM_academic_eegimaa-5	4	Jóola	JJ
+
+GUM_academic_eegimaa-5	5	language	NN
+
+GUM_academic_eegimaa-5	6	spoken	VBN
+
+GUM_academic_eegimaa-5	7	in	IN
+
+GUM_academic_eegimaa-5	8	the	DT
+
+GUM_academic_eegimaa-5	9	Basse	NN
+
+GUM_academic_eegimaa-5	10	Casamance	IN
+
+GUM_academic_eegimaa-5	11	area	NN
+
+GUM_academic_eegimaa-5	12	of	IN
+
+GUM_academic_eegimaa-5	13	Southern	DT
+
+GUM_academic_eegimaa-5	14	Senegal	NN
+
+GUM_academic_eegimaa-5	15	by	IN
+
+GUM_academic_eegimaa-5	16	a	DT
+
+GUM_academic_eegimaa-5	17	population	NN
+
+GUM_academic_eegimaa-5	18	estimated	VBD
+
+GUM_academic_eegimaa-5	19	to	TO
+
+GUM_academic_eegimaa-5	20	be	VB
+
+GUM_academic_eegimaa-5	21	between	IN
+
+GUM_academic_eegimaa-5	22	7,000	NNP
+
+GUM_academic_eegimaa-5	23	(	-LRB-
+
+GUM_academic_eegimaa-5	24	Bassène	CD
+
+GUM_academic_eegimaa-5	25	,	,
+
+GUM_academic_eegimaa-5	26	2007	CD
+
+GUM_academic_eegimaa-5	27	)	-RRB-
+
+GUM_academic_eegimaa-5	28	and	CC
+
+GUM_academic_eegimaa-5	29	11,200	NN
+
+GUM_academic_eegimaa-5	30	speakers	.
+
+GUM_academic_eegimaa-5	31	(	-LRB-
+
+GUM_academic_eegimaa-5	32	Lewis	CD
+
+GUM_academic_eegimaa-5	33	,	,
+
+GUM_academic_eegimaa-5	34	Simons	NNP
+
+GUM_academic_eegimaa-5	35	,	,
+
+GUM_academic_eegimaa-5	36	&	CC
+
+GUM_academic_eegimaa-5	37	Fennig	NN
+
+GUM_academic_eegimaa-5	38	,	,
+
+GUM_academic_eegimaa-5	39	2014	CD
+
+GUM_academic_eegimaa-5	40	)	-RRB-
+
+GUM_academic_eegimaa-5	41	.	.
+
+GUM_academic_eegimaa-6	1	Jóola	JJ
+
+GUM_academic_eegimaa-6	2	languages	NNS
+
+GUM_academic_eegimaa-6	3	are	VBP
+
+GUM_academic_eegimaa-6	4	classified	VBN
+
+GUM_academic_eegimaa-6	5	as	IN
+
+GUM_academic_eegimaa-6	6	members	NNS
+
+GUM_academic_eegimaa-6	7	of	IN
+
+GUM_academic_eegimaa-6	8	Sapir’s	DT
+
+GUM_academic_eegimaa-6	9	Sapir	NN
+
+GUM_academic_eegimaa-6	10	’s	.
+
+GUM_academic_eegimaa-6	11	(	-LRB-
+
+GUM_academic_eegimaa-6	12	1971	CD
+
+GUM_academic_eegimaa-6	13	)	-RRB-
+
+GUM_academic_eegimaa-6	14	BAK	CC
+
+GUM_academic_eegimaa-6	15	group	NN
+
+GUM_academic_eegimaa-6	16	of	IN
+
+GUM_academic_eegimaa-6	17	Atlantic	DT
+
+GUM_academic_eegimaa-6	18	languages	NNS
+
+GUM_academic_eegimaa-6	19	of	IN
+
+GUM_academic_eegimaa-6	20	the	DT
+
+GUM_academic_eegimaa-6	21	Niger	NN
+
+GUM_academic_eegimaa-6	22	Congo	.
+
+GUM_academic_eegimaa-6	23	language	-LRB-
+
+GUM_academic_eegimaa-6	24	phylum	CD
+
+GUM_academic_eegimaa-6	25	.	.
+
+GUM_academic_eegimaa-7	1	Speakers	RB
+
+GUM_academic_eegimaa-7	2	of	IN
+
+GUM_academic_eegimaa-7	3	these	DT
+
+GUM_academic_eegimaa-7	4	languages	NNS
+
+GUM_academic_eegimaa-7	5	are	VBP
+
+GUM_academic_eegimaa-7	6	found	VBN
+
+GUM_academic_eegimaa-7	7	in	IN
+
+GUM_academic_eegimaa-7	8	the	DT
+
+GUM_academic_eegimaa-7	9	Gambia	NN
+
+GUM_academic_eegimaa-7	10	,	,
+
+GUM_academic_eegimaa-7	11	in	IN
+
+GUM_academic_eegimaa-7	12	the	DT
+
+GUM_academic_eegimaa-7	13	former	JJ
+
+GUM_academic_eegimaa-7	14	Casamance	NN
+
+GUM_academic_eegimaa-7	15	region	NN
+
+GUM_academic_eegimaa-7	16	of	IN
+
+GUM_academic_eegimaa-7	17	Southern	DT
+
+GUM_academic_eegimaa-7	18	Senegal	NN
+
+GUM_academic_eegimaa-7	19	and	CC
+
+GUM_academic_eegimaa-7	20	in	IN
+
+GUM_academic_eegimaa-7	21	Guinea	DT
+
+GUM_academic_eegimaa-7	22	Bissau	NN
+
+GUM_academic_eegimaa-7	23	.	.
+
+GUM_academic_eegimaa-8	1	The	DT
+
+GUM_academic_eegimaa-8	2	map	NN
+
+GUM_academic_eegimaa-8	3	in	IN
+
+GUM_academic_eegimaa-8	4	Figure	NNP
+
+GUM_academic_eegimaa-8	5	1	CD
+
+GUM_academic_eegimaa-8	6	,	,
+
+GUM_academic_eegimaa-8	7	taken	VBN
+
+GUM_academic_eegimaa-8	8	from	IN
+
+GUM_academic_eegimaa-8	9	Ethnologue	NNP
+
+GUM_academic_eegimaa-8	10	,	,
+
+GUM_academic_eegimaa-8	11	presents	IN
+
+GUM_academic_eegimaa-8	12	the	DT
+
+GUM_academic_eegimaa-8	13	languages	NNS
+
+GUM_academic_eegimaa-8	14	of	IN
+
+GUM_academic_eegimaa-8	15	Senegal	NN
+
+GUM_academic_eegimaa-8	16	.	.
+
+GUM_academic_eegimaa-9	1	The	DT
+
+GUM_academic_eegimaa-9	2	arrow	NN
+
+GUM_academic_eegimaa-9	3	on	IN
+
+GUM_academic_eegimaa-9	4	the	DT
+
+GUM_academic_eegimaa-9	5	map	JJ
+
+GUM_academic_eegimaa-9	6	points	NN
+
+GUM_academic_eegimaa-9	7	to	IN
+
+GUM_academic_eegimaa-9	8	the	DT
+
+GUM_academic_eegimaa-9	9	Eegimaa	JJ
+
+GUM_academic_eegimaa-9	10	speaking	NN
+
+GUM_academic_eegimaa-9	11	area	.
+
+GUM_academic_eegimaa-9	12	(	-LRB-
+
+GUM_academic_eegimaa-9	13	Bandial	NNP
+
+GUM_academic_eegimaa-9	14	is	VBZ
+
+GUM_academic_eegimaa-9	15	the	DT
+
+GUM_academic_eegimaa-9	16	name	NN
+
+GUM_academic_eegimaa-9	17	used	VBN
+
+GUM_academic_eegimaa-9	18	by	IN
+
+GUM_academic_eegimaa-9	19	Ethnologue	NN
+
+GUM_academic_eegimaa-9	20	for	IN
+
+GUM_academic_eegimaa-9	21	Eegimaa	CD
+
+GUM_academic_eegimaa-9	22	)	-RRB-
+
+GUM_academic_eegimaa-9	23	.	.
+
+GUM_academic_eegimaa-10	1	Eegimaa	PRP
+
+GUM_academic_eegimaa-10	2	is	VBZ
+
+GUM_academic_eegimaa-10	3	mainly	RB
+
+GUM_academic_eegimaa-10	4	spoken	VBN
+
+GUM_academic_eegimaa-10	5	in	IN
+
+GUM_academic_eegimaa-10	6	Mof-Ávvi	NNP
+
+GUM_academic_eegimaa-10	7	,	,
+
+GUM_academic_eegimaa-10	8	a	DT
+
+GUM_academic_eegimaa-10	9	former	JJ
+
+GUM_academic_eegimaa-10	10	kingdom	NN
+
+GUM_academic_eegimaa-10	11	of	IN
+
+GUM_academic_eegimaa-10	12	10	CD
+
+GUM_academic_eegimaa-10	13	villages	-RRB-
+
+GUM_academic_eegimaa-10	14	located	,
+
+GUM_academic_eegimaa-10	15	to	IN
+
+GUM_academic_eegimaa-10	16	the	DT
+
+GUM_academic_eegimaa-10	17	west	NN
+
+GUM_academic_eegimaa-10	18	of	IN
+
+GUM_academic_eegimaa-10	19	Ziguinchor	NNP
+
+GUM_academic_eegimaa-10	20	,	,
+
+GUM_academic_eegimaa-10	21	the	DT
+
+GUM_academic_eegimaa-10	22	capital	NN
+
+GUM_academic_eegimaa-10	23	city	NN
+
+GUM_academic_eegimaa-10	24	of	IN
+
+GUM_academic_eegimaa-10	25	the	DT
+
+GUM_academic_eegimaa-10	26	former	JJ
+
+GUM_academic_eegimaa-10	27	administrative	NN
+
+GUM_academic_eegimaa-10	28	region	NN
+
+GUM_academic_eegimaa-10	29	of	IN
+
+GUM_academic_eegimaa-10	30	Casamance	NN
+
+GUM_academic_eegimaa-10	31	in	IN
+
+GUM_academic_eegimaa-10	32	the	DT
+
+GUM_academic_eegimaa-10	33	south	NN
+
+GUM_academic_eegimaa-10	34	of	IN
+
+GUM_academic_eegimaa-10	35	Senegal	NN
+
+GUM_academic_eegimaa-10	36	.	.
+
+GUM_academic_eegimaa-11	1	Mof-Ávvi	PRP
+
+GUM_academic_eegimaa-11	2	is	VBZ
+
+GUM_academic_eegimaa-11	3	a	DT
+
+GUM_academic_eegimaa-11	4	peninsula	JJ
+
+GUM_academic_eegimaa-11	5	bordered	NN
+
+GUM_academic_eegimaa-11	6	by	IN
+
+GUM_academic_eegimaa-11	7	the	DT
+
+GUM_academic_eegimaa-11	8	Casamance	JJ
+
+GUM_academic_eegimaa-11	9	River	NN
+
+GUM_academic_eegimaa-11	10	to	IN
+
+GUM_academic_eegimaa-11	11	the	DT
+
+GUM_academic_eegimaa-11	12	north	NN
+
+GUM_academic_eegimaa-11	13	,	,
+
+GUM_academic_eegimaa-11	14	which	WDT
+
+GUM_academic_eegimaa-11	15	separates	VBP
+
+GUM_academic_eegimaa-11	16	it	PRP
+
+GUM_academic_eegimaa-11	17	from	IN
+
+GUM_academic_eegimaa-11	18	the	DT
+
+GUM_academic_eegimaa-11	19	Jóola	NN
+
+GUM_academic_eegimaa-11	20	Búluf	,
+
+GUM_academic_eegimaa-11	21	and	CC
+
+GUM_academic_eegimaa-11	22	Jóola	DT
+
+GUM_academic_eegimaa-11	23	Fogny	JJ
+
+GUM_academic_eegimaa-11	24	areas	NNS
+
+GUM_academic_eegimaa-11	25	,	,
+
+GUM_academic_eegimaa-11	26	and	CC
+
+GUM_academic_eegimaa-11	27	bordered	NN
+
+GUM_academic_eegimaa-11	28	to	IN
+
+GUM_academic_eegimaa-11	29	the	DT
+
+GUM_academic_eegimaa-11	30	east	NN
+
+GUM_academic_eegimaa-11	31	by	IN
+
+GUM_academic_eegimaa-11	32	the	DT
+
+GUM_academic_eegimaa-11	33	villages	NN
+
+GUM_academic_eegimaa-11	34	Brin	,
+
+GUM_academic_eegimaa-11	35	and	CC
+
+GUM_academic_eegimaa-11	36	Djibonker	NN
+
+GUM_academic_eegimaa-11	37	,	,
+
+GUM_academic_eegimaa-11	38	where	WRB
+
+GUM_academic_eegimaa-11	39	the	DT
+
+GUM_academic_eegimaa-11	40	speakers	NN
+
+GUM_academic_eegimaa-11	41	of	IN
+
+GUM_academic_eegimaa-11	42	Kujireray	NN
+
+GUM_academic_eegimaa-11	43	and	CC
+
+GUM_academic_eegimaa-11	44	Baïnounk	DT
+
+GUM_academic_eegimaa-11	45	Gubëeher	JJ
+
+GUM_academic_eegimaa-11	46	live	NN
+
+GUM_academic_eegimaa-11	47	.	.
+
+GUM_academic_eegimaa-12	1	In	IN
+
+GUM_academic_eegimaa-12	2	the	DT
+
+GUM_academic_eegimaa-12	3	south	NN
+
+GUM_academic_eegimaa-12	4	,	,
+
+GUM_academic_eegimaa-12	5	the	DT
+
+GUM_academic_eegimaa-12	6	river	VBZ
+
+GUM_academic_eegimaa-12	7	known	VBN
+
+GUM_academic_eegimaa-12	8	as	IN
+
+GUM_academic_eegimaa-12	9	Kamobeul	DT
+
+GUM_academic_eegimaa-12	10	Bolon	NN
+
+GUM_academic_eegimaa-12	11	separates	IN
+
+GUM_academic_eegimaa-12	12	Mof-Ávvi	NN
+
+GUM_academic_eegimaa-12	13	from	IN
+
+GUM_academic_eegimaa-12	14	the	DT
+
+GUM_academic_eegimaa-12	15	Bayot	NN
+
+GUM_academic_eegimaa-12	16	speaking	IN
+
+GUM_academic_eegimaa-12	17	area	NN
+
+GUM_academic_eegimaa-12	18	,	,
+
+GUM_academic_eegimaa-12	19	while	IN
+
+GUM_academic_eegimaa-12	20	the	DT
+
+GUM_academic_eegimaa-12	21	west	JJ
+
+GUM_academic_eegimaa-12	22	side	NN
+
+GUM_academic_eegimaa-12	23	of	IN
+
+GUM_academic_eegimaa-12	24	Mof-Ávvi	DT
+
+GUM_academic_eegimaa-12	25	coincides	NN
+
+GUM_academic_eegimaa-12	26	with	IN
+
+GUM_academic_eegimaa-12	27	the	DT
+
+GUM_academic_eegimaa-12	28	homeland	NN
+
+GUM_academic_eegimaa-12	29	of	IN
+
+GUM_academic_eegimaa-12	30	the	DT
+
+GUM_academic_eegimaa-12	31	Jóola	JJ
+
+GUM_academic_eegimaa-12	32	Kaasa	NN
+
+GUM_academic_eegimaa-12	33	Húluf	,
+
+GUM_academic_eegimaa-12	34	and	CC
+
+GUM_academic_eegimaa-12	35	Jóola	DT
+
+GUM_academic_eegimaa-12	36	Kaasa	JJ
+
+GUM_academic_eegimaa-12	37	Ésuulaaluʔ	NN
+
+GUM_academic_eegimaa-12	38	.	.
+
+GUM_academic_eegimaa-13	1	The	DT
+
+GUM_academic_eegimaa-13	2	map	NN
+
+GUM_academic_eegimaa-13	3	in	IN
+
+GUM_academic_eegimaa-13	4	Figure	NNP
+
+GUM_academic_eegimaa-13	5	2	CD
+
+GUM_academic_eegimaa-13	6	below	-RRB-
+
+GUM_academic_eegimaa-13	7	,	,
+
+GUM_academic_eegimaa-13	8	adapted	VBN
+
+GUM_academic_eegimaa-13	9	from	IN
+
+GUM_academic_eegimaa-13	10	Palmeri	NN
+
+GUM_academic_eegimaa-13	11	and	CC
+
+GUM_academic_eegimaa-13	12	Gazio	NNP
+
+GUM_academic_eegimaa-13	13	(	-LRB-
+
+GUM_academic_eegimaa-13	14	1995	CD
+
+GUM_academic_eegimaa-13	15	)	-RRB-
+
+GUM_academic_eegimaa-13	16	,	,
+
+GUM_academic_eegimaa-13	17	shows	IN
+
+GUM_academic_eegimaa-13	18	a	DT
+
+GUM_academic_eegimaa-13	19	very	JJ
+
+GUM_academic_eegimaa-13	20	approximate	NN
+
+GUM_academic_eegimaa-13	21	location	NN
+
+GUM_academic_eegimaa-13	22	of	IN
+
+GUM_academic_eegimaa-13	23	Mof-Ávvi	NN
+
+GUM_academic_eegimaa-13	24	in	IN
+
+GUM_academic_eegimaa-13	25	relation	NN
+
+GUM_academic_eegimaa-13	26	to	IN
+
+GUM_academic_eegimaa-13	27	other	JJ
+
+GUM_academic_eegimaa-13	28	neighbouring	.
+
+GUM_academic_eegimaa-13	29	speech	-LRB-
+
+GUM_academic_eegimaa-13	30	communities	CD
+
+GUM_academic_eegimaa-13	31	.	.
+
+GUM_academic_eegimaa-14	1	Some	RB
+
+GUM_academic_eegimaa-14	2	of	IN
+
+GUM_academic_eegimaa-14	3	these	DT
+
+GUM_academic_eegimaa-14	4	communities	NN
+
+GUM_academic_eegimaa-14	5	will	MD
+
+GUM_academic_eegimaa-14	6	be	VB
+
+GUM_academic_eegimaa-14	7	referred	VBN
+
+GUM_academic_eegimaa-14	8	to	IN
+
+GUM_academic_eegimaa-14	9	in	IN
+
+GUM_academic_eegimaa-14	10	our	PRP$
+
+GUM_academic_eegimaa-14	11	discussion	NN
+
+GUM_academic_eegimaa-14	12	of	IN
+
+GUM_academic_eegimaa-14	13	death	NN
+
+GUM_academic_eegimaa-14	14	prevention	IN
+
+GUM_academic_eegimaa-14	15	names	NN
+
+GUM_academic_eegimaa-14	16	in	IN
+
+GUM_academic_eegimaa-14	17	§	DT
+
+GUM_academic_eegimaa-14	18	6	NN
+
+GUM_academic_eegimaa-14	19	.	.
+
+GUM_academic_eegimaa-15	1	The	DT
+
+GUM_academic_eegimaa-15	2	Eegimaa	JJ
+
+GUM_academic_eegimaa-15	3	spoken	NN
+
+GUM_academic_eegimaa-15	4	in	IN
+
+GUM_academic_eegimaa-15	5	Mof-Ávvi	DT
+
+GUM_academic_eegimaa-15	6	is	VBZ
+
+GUM_academic_eegimaa-15	7	known	VBN
+
+GUM_academic_eegimaa-15	8	by	IN
+
+GUM_academic_eegimaa-15	9	several	JJ
+
+GUM_academic_eegimaa-15	10	names	NNS
+
+GUM_academic_eegimaa-15	11	given	VBN
+
+GUM_academic_eegimaa-15	12	by	IN
+
+GUM_academic_eegimaa-15	13	speakers	NN
+
+GUM_academic_eegimaa-15	14	of	IN
+
+GUM_academic_eegimaa-15	15	neighbouring	DT
+
+GUM_academic_eegimaa-15	16	languages	NNS
+
+GUM_academic_eegimaa-15	17	.	.
+
+GUM_academic_eegimaa-16	1	For	IN
+
+GUM_academic_eegimaa-16	2	example	NN
+
+GUM_academic_eegimaa-16	3	,	,
+
+GUM_academic_eegimaa-16	4	the	DT
+
+GUM_academic_eegimaa-16	5	name	NN
+
+GUM_academic_eegimaa-16	6	Kusiilay	-LRB-
+
+GUM_academic_eegimaa-16	7	1	CD
+
+GUM_academic_eegimaa-16	8	‘	IN
+
+GUM_academic_eegimaa-16	9	the	DT
+
+GUM_academic_eegimaa-16	10	language	NN
+
+GUM_academic_eegimaa-16	11	of	IN
+
+GUM_academic_eegimaa-16	12	Essil	DT
+
+GUM_academic_eegimaa-16	13	’	NN
+
+GUM_academic_eegimaa-16	14	,	,
+
+GUM_academic_eegimaa-16	15	is	VBZ
+
+GUM_academic_eegimaa-16	16	the	DT
+
+GUM_academic_eegimaa-16	17	name	NN
+
+GUM_academic_eegimaa-16	18	given	VBN
+
+GUM_academic_eegimaa-16	19	by	IN
+
+GUM_academic_eegimaa-16	20	speakers	NN
+
+GUM_academic_eegimaa-16	21	of	IN
+
+GUM_academic_eegimaa-16	22	Kujireray	NN
+
+GUM_academic_eegimaa-16	23	to	IN
+
+GUM_academic_eegimaa-16	24	the	DT
+
+GUM_academic_eegimaa-16	25	Eegimaa	JJ
+
+GUM_academic_eegimaa-16	26	language	NN
+
+GUM_academic_eegimaa-16	27	,	,
+
+GUM_academic_eegimaa-16	28	because	IN
+
+GUM_academic_eegimaa-16	29	Essil	NNP
+
+GUM_academic_eegimaa-16	30	,	,
+
+GUM_academic_eegimaa-16	31	of	IN
+
+GUM_academic_eegimaa-16	32	which	WDT
+
+GUM_academic_eegimaa-16	33	Bajjat	PRP
+
+GUM_academic_eegimaa-16	34	was	VBD
+
+GUM_academic_eegimaa-16	35	a	DT
+
+GUM_academic_eegimaa-16	36	district	NN
+
+GUM_academic_eegimaa-16	37	,	,
+
+GUM_academic_eegimaa-16	38	is	VBZ
+
+GUM_academic_eegimaa-16	39	the	DT
+
+GUM_academic_eegimaa-16	40	village	NN
+
+GUM_academic_eegimaa-16	41	which	WDT
+
+GUM_academic_eegimaa-16	42	has	VBZ
+
+GUM_academic_eegimaa-16	43	a	DT
+
+GUM_academic_eegimaa-16	44	border	NN
+
+GUM_academic_eegimaa-16	45	with	IN
+
+GUM_academic_eegimaa-16	46	their	PRP$
+
+GUM_academic_eegimaa-16	47	village	NN
+
+GUM_academic_eegimaa-16	48	.	.
+
+GUM_academic_eegimaa-17	1	Endungo	PRP
+
+GUM_academic_eegimaa-17	2	is	VBZ
+
+GUM_academic_eegimaa-17	3	the	DT
+
+GUM_academic_eegimaa-17	4	name	NN
+
+GUM_academic_eegimaa-17	5	given	VBN
+
+GUM_academic_eegimaa-17	6	by	IN
+
+GUM_academic_eegimaa-17	7	Bayot	DT
+
+GUM_academic_eegimaa-17	8	speakers	NN
+
+GUM_academic_eegimaa-17	9	,	,
+
+GUM_academic_eegimaa-17	10	but	CC
+
+GUM_academic_eegimaa-17	11	its	PRP$
+
+GUM_academic_eegimaa-17	12	meaning	NN
+
+GUM_academic_eegimaa-17	13	is	VBZ
+
+GUM_academic_eegimaa-17	14	not	RB
+
+GUM_academic_eegimaa-17	15	known	VBN
+
+GUM_academic_eegimaa-17	16	.	.
+
+GUM_academic_eegimaa-18	1	Kúlaakiay	UH
+
+GUM_academic_eegimaa-18	2	,	,
+
+GUM_academic_eegimaa-18	3	‘	IN
+
+GUM_academic_eegimaa-18	4	the	DT
+
+GUM_academic_eegimaa-18	5	language	NN
+
+GUM_academic_eegimaa-18	6	of	IN
+
+GUM_academic_eegimaa-18	7	village	NN
+
+GUM_academic_eegimaa-18	8	of	IN
+
+GUM_academic_eegimaa-18	9	Seleki	CD
+
+GUM_academic_eegimaa-18	10	/	SYM
+
+GUM_academic_eegimaa-18	11	Sállagi	CD
+
+GUM_academic_eegimaa-18	12	’	-RRB-
+
+GUM_academic_eegimaa-18	13	,	,
+
+GUM_academic_eegimaa-18	14	is	VBZ
+
+GUM_academic_eegimaa-18	15	the	DT
+
+GUM_academic_eegimaa-18	16	name	NN
+
+GUM_academic_eegimaa-18	17	given	VBN
+
+GUM_academic_eegimaa-18	18	by	IN
+
+GUM_academic_eegimaa-18	19	Jóola	DT
+
+GUM_academic_eegimaa-18	20	Kaasa	NN
+
+GUM_academic_eegimaa-18	21	speakers	,
+
+GUM_academic_eegimaa-18	22	who	WP
+
+GUM_academic_eegimaa-18	23	are	VBP
+
+GUM_academic_eegimaa-18	24	more	DT
+
+GUM_academic_eegimaa-18	25	familiar	NN
+
+GUM_academic_eegimaa-18	26	with	IN
+
+GUM_academic_eegimaa-18	27	the	DT
+
+GUM_academic_eegimaa-18	28	village	NN
+
+GUM_academic_eegimaa-18	29	of	IN
+
+GUM_academic_eegimaa-18	30	Seleki	DT
+
+GUM_academic_eegimaa-18	31	/	NN
+
+GUM_academic_eegimaa-18	32	Sállagi	.
+
+GUM_academic_eegimaa-18	33	’	''
+
+GUM_academic_eegimaa-18	34	than	IN
+
+GUM_academic_eegimaa-18	35	all	DT
+
+GUM_academic_eegimaa-18	36	other	JJ
+
+GUM_academic_eegimaa-18	37	villages	NN
+
+GUM_academic_eegimaa-18	38	of	IN
+
+GUM_academic_eegimaa-18	39	Mof-Ávvi	NN
+
+GUM_academic_eegimaa-18	40	.	.
+
+GUM_academic_eegimaa-19	1	Finally	RB
+
+GUM_academic_eegimaa-19	2	,	,
+
+GUM_academic_eegimaa-19	3	Banjal	IN
+
+GUM_academic_eegimaa-19	4	/	DT
+
+GUM_academic_eegimaa-19	5	Bandial	NN
+
+GUM_academic_eegimaa-19	6	‘	IN
+
+GUM_academic_eegimaa-19	7	the	DT
+
+GUM_academic_eegimaa-19	8	language	NN
+
+GUM_academic_eegimaa-19	9	of	IN
+
+GUM_academic_eegimaa-19	10	the	DT
+
+GUM_academic_eegimaa-19	11	village	NN
+
+GUM_academic_eegimaa-19	12	of	IN
+
+GUM_academic_eegimaa-19	13	Banjal	DT
+
+GUM_academic_eegimaa-19	14	’	NN
+
+GUM_academic_eegimaa-19	15	,	,
+
+GUM_academic_eegimaa-19	16	the	DT
+
+GUM_academic_eegimaa-19	17	most	RBS
+
+GUM_academic_eegimaa-19	18	popular	JJ
+
+GUM_academic_eegimaa-19	19	of	IN
+
+GUM_academic_eegimaa-19	20	all	DT
+
+GUM_academic_eegimaa-19	21	those	JJ
+
+GUM_academic_eegimaa-19	22	names	NN
+
+GUM_academic_eegimaa-19	23	,	,
+
+GUM_academic_eegimaa-19	24	is	VBZ
+
+GUM_academic_eegimaa-19	25	the	DT
+
+GUM_academic_eegimaa-19	26	name	NN
+
+GUM_academic_eegimaa-19	27	given	VBN
+
+GUM_academic_eegimaa-19	28	by	IN
+
+GUM_academic_eegimaa-19	29	the	DT
+
+GUM_academic_eegimaa-19	30	Jóola	NN
+
+GUM_academic_eegimaa-19	31	Búluf	,
+
+GUM_academic_eegimaa-19	32	and	CC
+
+GUM_academic_eegimaa-19	33	Jóola	DT
+
+GUM_academic_eegimaa-19	34	Fogny	JJ
+
+GUM_academic_eegimaa-19	35	speakers	NN
+
+GUM_academic_eegimaa-19	36	to	IN
+
+GUM_academic_eegimaa-19	37	Eegimaa	DT
+
+GUM_academic_eegimaa-19	38	people	NNS
+
+GUM_academic_eegimaa-19	39	and	CC
+
+GUM_academic_eegimaa-19	40	their	PRP$
+
+GUM_academic_eegimaa-19	41	language	NN
+
+GUM_academic_eegimaa-19	42	,	,
+
+GUM_academic_eegimaa-19	43	because	IN
+
+GUM_academic_eegimaa-19	44	people	NNS
+
+GUM_academic_eegimaa-19	45	from	IN
+
+GUM_academic_eegimaa-19	46	the	DT
+
+GUM_academic_eegimaa-19	47	village	NN
+
+GUM_academic_eegimaa-19	48	of	IN
+
+GUM_academic_eegimaa-19	49	Banjal	PRP
+
+GUM_academic_eegimaa-19	50	were	VBD
+
+GUM_academic_eegimaa-19	51	the	DT
+
+GUM_academic_eegimaa-19	52	first	JJ
+
+GUM_academic_eegimaa-19	53	to	TO
+
+GUM_academic_eegimaa-19	54	be	VB
+
+GUM_academic_eegimaa-19	55	in	IN
+
+GUM_academic_eegimaa-19	56	contact	NN
+
+GUM_academic_eegimaa-19	57	with	IN
+
+GUM_academic_eegimaa-19	58	them	PRP
+
+GUM_academic_eegimaa-19	59	.	.
+
+GUM_academic_eegimaa-20	1	Figure	NNP
+
+GUM_academic_eegimaa-20	2	1	CD
+
+GUM_academic_eegimaa-20	3	.	.
+
+GUM_academic_eegimaa-21	1	Map	RB
+
+GUM_academic_eegimaa-21	2	of	IN
+
+GUM_academic_eegimaa-21	3	Senegal	NNP
+
+GUM_academic_eegimaa-21	4	(	-LRB-
+
+GUM_academic_eegimaa-21	5	courtesy	CD
+
+GUM_academic_eegimaa-21	6	of	IN
+
+GUM_academic_eegimaa-21	7	Google	NNP
+
+GUM_academic_eegimaa-21	8	maps	CD
+
+GUM_academic_eegimaa-21	9	)	-RRB-
+
+GUM_academic_eegimaa-22	1	Figure	NNP
+
+GUM_academic_eegimaa-22	2	2	CD
+
+GUM_academic_eegimaa-22	3	.	.
+
+GUM_academic_eegimaa-23	1	Map	RB
+
+GUM_academic_eegimaa-23	2	of	IN
+
+GUM_academic_eegimaa-23	3	the	DT
+
+GUM_academic_eegimaa-23	4	Eegimaa	NN
+
+GUM_academic_eegimaa-23	5	speaking	.
+
+GUM_academic_eegimaa-23	6	area	-LRB-
+
+GUM_academic_eegimaa-24	1	Village	_
+
+GUM_academic_eegimaa-24	2	names	PRP
+
+GUM_academic_eegimaa-24	3	are	VBP
+
+GUM_academic_eegimaa-24	4	written	VBN
+
+GUM_academic_eegimaa-24	5	using	IN
+
+GUM_academic_eegimaa-24	6	their	PRP$
+
+GUM_academic_eegimaa-24	7	usual	JJ
+
+GUM_academic_eegimaa-24	8	spelling	NN
+
+GUM_academic_eegimaa-24	9	.	.
+
+GUM_academic_eegimaa-25	1	The	DT
+
+GUM_academic_eegimaa-25	2	Ethnologue	JJ
+
+GUM_academic_eegimaa-25	3	language	NN
+
+GUM_academic_eegimaa-25	4	codes	NNS
+
+GUM_academic_eegimaa-25	5	are	VBP
+
+GUM_academic_eegimaa-25	6	provided	VBN
+
+GUM_academic_eegimaa-25	7	for	IN
+
+GUM_academic_eegimaa-25	8	language	NN
+
+GUM_academic_eegimaa-25	9	varieties	,
+
+GUM_academic_eegimaa-25	10	that	WDT
+
+GUM_academic_eegimaa-25	11	have	VBP
+
+GUM_academic_eegimaa-25	12	them	PRP
+
+GUM_academic_eegimaa-25	13	.	.
+
+GUM_academic_eegimaa-26	1	Language	_
+
+GUM_academic_eegimaa-26	2	names	PRP
+
+GUM_academic_eegimaa-26	3	are	VBP
+
+GUM_academic_eegimaa-26	4	written	VBN
+
+GUM_academic_eegimaa-26	5	following	IN
+
+GUM_academic_eegimaa-26	6	the	DT
+
+GUM_academic_eegimaa-26	7	recommendation	NN
+
+GUM_academic_eegimaa-26	8	for	IN
+
+GUM_academic_eegimaa-26	9	the	DT
+
+GUM_academic_eegimaa-26	10	transcription	NN
+
+GUM_academic_eegimaa-26	11	of	IN
+
+GUM_academic_eegimaa-26	12	national	JJ
+
+GUM_academic_eegimaa-26	13	languages	NNS
+
+GUM_academic_eegimaa-26	14	of	IN
+
+GUM_academic_eegimaa-26	15	Senegal	NNP
+
+GUM_academic_eegimaa-26	16	,	,
+
+GUM_academic_eegimaa-26	17	Decree	CD
+
+GUM_academic_eegimaa-26	18	2005-981	-RRB-
+
+GUM_academic_eegimaa-26	19	.	.
+
+GUM_academic_eegimaa-27	1	Names	RB
+
+GUM_academic_eegimaa-27	2	of	IN
+
+GUM_academic_eegimaa-27	3	the	DT
+
+GUM_academic_eegimaa-27	4	villages	NN
+
+GUM_academic_eegimaa-27	5	of	IN
+
+GUM_academic_eegimaa-27	6	Mof-Ávvi	PRP
+
+GUM_academic_eegimaa-27	7	are	VBP
+
+GUM_academic_eegimaa-27	8	written	VBN
+
+GUM_academic_eegimaa-27	9	using	IN
+
+GUM_academic_eegimaa-27	10	the	DT
+
+GUM_academic_eegimaa-27	11	Eegimaa	NN
+
+GUM_academic_eegimaa-27	12	orthography	,
+
+GUM_academic_eegimaa-27	13	and	CC
+
+GUM_academic_eegimaa-27	14	following	VBG
+
+GUM_academic_eegimaa-27	15	the	DT
+
+GUM_academic_eegimaa-27	16	pronunciation	NN
+
+GUM_academic_eegimaa-27	17	of	IN
+
+GUM_academic_eegimaa-27	18	village	DT
+
+GUM_academic_eegimaa-27	19	names	NN
+
+GUM_academic_eegimaa-27	20	by	IN
+
+GUM_academic_eegimaa-27	21	native	DT
+
+GUM_academic_eegimaa-27	22	speakers	NN
+
+GUM_academic_eegimaa-27	23	.	.
+
+GUM_academic_eegimaa-28	1	Jóola	DT
+
+GUM_academic_eegimaa-28	2	language	NN
+
+GUM_academic_eegimaa-28	3	varieties	,
+
+GUM_academic_eegimaa-28	4	which	WDT
+
+GUM_academic_eegimaa-28	5	are	VBP
+
+GUM_academic_eegimaa-28	6	closely	RB
+
+GUM_academic_eegimaa-28	7	related	VBN
+
+GUM_academic_eegimaa-28	8	to	IN
+
+GUM_academic_eegimaa-28	9	Eegimaa	NN
+
+GUM_academic_eegimaa-28	10	include	.
+
+GUM_academic_eegimaa-28	11	Kujireray	-LRB-
+
+GUM_academic_eegimaa-28	12	/	CD
+
+GUM_academic_eegimaa-28	13	Kuluunaay	.
+
+GUM_academic_eegimaa-28	14	(	-LRB-
+
+GUM_academic_eegimaa-28	15	from	IN
+
+GUM_academic_eegimaa-28	16	the	DT
+
+GUM_academic_eegimaa-28	17	village	NN
+
+GUM_academic_eegimaa-28	18	of	IN
+
+GUM_academic_eegimaa-28	19	Brin	NN
+
+GUM_academic_eegimaa-28	20	with	IN
+
+GUM_academic_eegimaa-28	21	76	DT
+
+GUM_academic_eegimaa-28	22	%	NN
+
+GUM_academic_eegimaa-28	23	lexical	-LRB-
+
+GUM_academic_eegimaa-28	24	similarity	CD
+
+GUM_academic_eegimaa-28	25	)	-RRB-
+
+GUM_academic_eegimaa-28	26	and	CC
+
+GUM_academic_eegimaa-28	27	Gufiñamay	NNP
+
+GUM_academic_eegimaa-28	28	(	-LRB-
+
+GUM_academic_eegimaa-28	29	from	IN
+
+GUM_academic_eegimaa-28	30	the	DT
+
+GUM_academic_eegimaa-28	31	village	NN
+
+GUM_academic_eegimaa-28	32	of	IN
+
+GUM_academic_eegimaa-28	33	Afiniam	NN
+
+GUM_academic_eegimaa-28	34	with	IN
+
+GUM_academic_eegimaa-28	35	74	DT
+
+GUM_academic_eegimaa-28	36	%	NN
+
+GUM_academic_eegimaa-28	37	lexical	NN
+
+GUM_academic_eegimaa-28	38	similarity	.
+
+GUM_academic_eegimaa-28	39	(	-LRB-
+
+GUM_academic_eegimaa-28	40	based	VBN
+
+GUM_academic_eegimaa-28	41	on	IN
+
+GUM_academic_eegimaa-28	42	Lewis	NNP
+
+GUM_academic_eegimaa-28	43	et	NNP
+
+GUM_academic_eegimaa-28	44	al.	NNP
+
+GUM_academic_eegimaa-28	45	,	,
+
+GUM_academic_eegimaa-28	46	2014	CD
+
+GUM_academic_eegimaa-28	47	eds.	SYM
+
+GUM_academic_eegimaa-28	48	)	CD
+
+GUM_academic_eegimaa-28	49	)	-RRB-
+
+GUM_academic_eegimaa-28	50	.	.
+
+GUM_academic_eegimaa-29	1	Gútaamay	NNP
+
+GUM_academic_eegimaa-29	2	(	-LRB-
+
+GUM_academic_eegimaa-29	3	from	IN
+
+GUM_academic_eegimaa-29	4	the	DT
+
+GUM_academic_eegimaa-29	5	village	NN
+
+GUM_academic_eegimaa-29	6	of	IN
+
+GUM_academic_eegimaa-29	7	Butam	CD
+
+GUM_academic_eegimaa-29	8	)	-RRB-
+
+GUM_academic_eegimaa-29	9	,	,
+
+GUM_academic_eegimaa-29	10	Gulapaoray	NNP
+
+GUM_academic_eegimaa-29	11	(	-LRB-
+
+GUM_academic_eegimaa-29	12	from	IN
+
+GUM_academic_eegimaa-29	13	the	DT
+
+GUM_academic_eegimaa-29	14	village	NN
+
+GUM_academic_eegimaa-29	15	Djilapaor	CD
+
+GUM_academic_eegimaa-29	16	)	-RRB-
+
+GUM_academic_eegimaa-29	17	and	CC
+
+GUM_academic_eegimaa-29	18	Gusiilay	NNP
+
+GUM_academic_eegimaa-29	19	(	-LRB-
+
+GUM_academic_eegimaa-29	20	ISO	CD
+
+GUM_academic_eegimaa-29	21	639-3	.
+
+GUM_academic_eegimaa-29	22	:	-LRB-
+
+GUM_academic_eegimaa-29	23	bsl	CD
+
+GUM_academic_eegimaa-29	24	)	-RRB-
+
+GUM_academic_eegimaa-29	25	from	IN
+
+GUM_academic_eegimaa-29	26	the	DT
+
+GUM_academic_eegimaa-29	27	village	NN
+
+GUM_academic_eegimaa-29	28	of	IN
+
+GUM_academic_eegimaa-29	29	Thionk	DT
+
+GUM_academic_eegimaa-29	30	Essil	NNS
+
+GUM_academic_eegimaa-29	31	are	VBP
+
+GUM_academic_eegimaa-29	32	also	RB
+
+GUM_academic_eegimaa-29	33	other	JJ
+
+GUM_academic_eegimaa-29	34	languages	NNS
+
+GUM_academic_eegimaa-29	35	related	VBP
+
+GUM_academic_eegimaa-29	36	to	TO
+
+GUM_academic_eegimaa-29	37	Eegimaa	VB
+
+GUM_academic_eegimaa-29	38	.	.
+
+GUM_academic_eegimaa-30	1	They	PRP
+
+GUM_academic_eegimaa-30	2	are	VBP
+
+GUM_academic_eegimaa-30	3	located	DT
+
+GUM_academic_eegimaa-30	4	north	NN
+
+GUM_academic_eegimaa-30	5	of	IN
+
+GUM_academic_eegimaa-30	6	the	DT
+
+GUM_academic_eegimaa-30	7	Casamance	JJ
+
+GUM_academic_eegimaa-30	8	River	NN
+
+GUM_academic_eegimaa-30	9	in	IN
+
+GUM_academic_eegimaa-30	10	the	DT
+
+GUM_academic_eegimaa-30	11	Jóola	NN
+
+GUM_academic_eegimaa-30	12	Búluf	IN
+
+GUM_academic_eegimaa-30	13	area	NN
+
+GUM_academic_eegimaa-30	14	.	.
+
+GUM_academic_eegimaa-31	1	There	PRP
+
+GUM_academic_eegimaa-31	2	are	VBP
+
+GUM_academic_eegimaa-31	3	also	RB
+
+GUM_academic_eegimaa-31	4	small	.
+
+GUM_academic_eegimaa-31	5	migrant	-LRB-
+
+GUM_academic_eegimaa-31	6	Eegimaa	CD
+
+GUM_academic_eegimaa-31	7	communities	NNS
+
+GUM_academic_eegimaa-31	8	in	IN
+
+GUM_academic_eegimaa-31	9	villages	DT
+
+GUM_academic_eegimaa-31	10	like	JJ
+
+GUM_academic_eegimaa-31	11	Djifanghor	.
+
+GUM_academic_eegimaa-31	12	(	-LRB-
+
+GUM_academic_eegimaa-31	13	east	CD
+
+GUM_academic_eegimaa-31	14	of	IN
+
+GUM_academic_eegimaa-31	15	Ziguinchor	CD
+
+GUM_academic_eegimaa-31	16	)	-RRB-
+
+GUM_academic_eegimaa-31	17	and	CC
+
+GUM_academic_eegimaa-31	18	in	IN
+
+GUM_academic_eegimaa-31	19	Bourofaye	NNP
+
+GUM_academic_eegimaa-31	20	(	-LRB-
+
+GUM_academic_eegimaa-31	21	south	CD
+
+GUM_academic_eegimaa-31	22	of	IN
+
+GUM_academic_eegimaa-31	23	Ziguinchor	CD
+
+GUM_academic_eegimaa-31	24	)	-RRB-
+
+GUM_academic_eegimaa-31	25	,	,
+
+GUM_academic_eegimaa-31	26	where	WRB
+
+GUM_academic_eegimaa-31	27	they	PRP
+
+GUM_academic_eegimaa-31	28	cohabit	VBD
+
+GUM_academic_eegimaa-31	29	with	IN
+
+GUM_academic_eegimaa-31	30	speakers	NN
+
+GUM_academic_eegimaa-31	31	of	IN
+
+GUM_academic_eegimaa-31	32	Baïnounk	DT
+
+GUM_academic_eegimaa-31	33	languages	NNS
+
+GUM_academic_eegimaa-31	34	.	.
+
+GUM_academic_eegimaa-32	1	Nowadays	UH
+
+GUM_academic_eegimaa-32	2	most	.
+
+GUM_academic_eegimaa-32	3	Eegimaa	-LRB-
+
+GUM_academic_eegimaa-32	4	speakers	CD
+
+GUM_academic_eegimaa-32	5	from	IN
+
+GUM_academic_eegimaa-32	6	Mof-Ávvi	DT
+
+GUM_academic_eegimaa-32	7	live	NN
+
+GUM_academic_eegimaa-32	8	outside	IN
+
+GUM_academic_eegimaa-32	9	their	PRP$
+
+GUM_academic_eegimaa-32	10	homeland	NN
+
+GUM_academic_eegimaa-32	11	,	,
+
+GUM_academic_eegimaa-32	12	generally	RB
+
+GUM_academic_eegimaa-32	13	in	IN
+
+GUM_academic_eegimaa-32	14	urban	DT
+
+GUM_academic_eegimaa-32	15	areas	NNS
+
+GUM_academic_eegimaa-32	16	like	IN
+
+GUM_academic_eegimaa-32	17	Ziguinchor	NN
+
+GUM_academic_eegimaa-32	18	and	CC
+
+GUM_academic_eegimaa-32	19	Dakar	NN
+
+GUM_academic_eegimaa-32	20	.	.
+
+GUM_academic_eegimaa-33	1	Speakers	RB
+
+GUM_academic_eegimaa-33	2	of	IN
+
+GUM_academic_eegimaa-33	3	Eegimaa	DT
+
+GUM_academic_eegimaa-33	4	use	NN
+
+GUM_academic_eegimaa-33	5	the	DT
+
+GUM_academic_eegimaa-33	6	term	NN
+
+GUM_academic_eegimaa-33	7	Gújjolaay	.
+
+GUM_academic_eegimaa-33	8	(	-LRB-
+
+GUM_academic_eegimaa-33	9	meaning	CD
+
+GUM_academic_eegimaa-33	10	Jóola	CD
+
+GUM_academic_eegimaa-33	11	)	-RRB-
+
+GUM_academic_eegimaa-33	12	to	TO
+
+GUM_academic_eegimaa-33	13	refer	VB
+
+GUM_academic_eegimaa-33	14	to	IN
+
+GUM_academic_eegimaa-33	15	their	PRP$
+
+GUM_academic_eegimaa-33	16	language	NN
+
+GUM_academic_eegimaa-33	17	when	WRB
+
+GUM_academic_eegimaa-33	18	they	PRP
+
+GUM_academic_eegimaa-33	19	speak	VBD
+
+GUM_academic_eegimaa-33	20	to	IN
+
+GUM_academic_eegimaa-33	21	each	DT
+
+GUM_academic_eegimaa-33	22	other	JJ
+
+GUM_academic_eegimaa-33	23	,	,
+
+GUM_academic_eegimaa-33	24	but	CC
+
+GUM_academic_eegimaa-33	25	use	NN
+
+GUM_academic_eegimaa-33	26	Eegimaa	VBZ
+
+GUM_academic_eegimaa-33	27	to	TO
+
+GUM_academic_eegimaa-33	28	distinguish	VB
+
+GUM_academic_eegimaa-33	29	their	PRP$
+
+GUM_academic_eegimaa-33	30	Jóola	JJ
+
+GUM_academic_eegimaa-33	31	variety	NN
+
+GUM_academic_eegimaa-33	32	from	IN
+
+GUM_academic_eegimaa-33	33	that	DT
+
+GUM_academic_eegimaa-33	34	of	IN
+
+GUM_academic_eegimaa-33	35	other	JJ
+
+GUM_academic_eegimaa-33	36	Jóola	NN
+
+GUM_academic_eegimaa-33	37	peoples	NN
+
+GUM_academic_eegimaa-33	38	.	.
+
+GUM_academic_eegimaa-34	1	Eegimaa	PRP
+
+GUM_academic_eegimaa-34	2	is	VBZ
+
+GUM_academic_eegimaa-34	3	an	DT
+
+GUM_academic_eegimaa-34	4	endangered	JJ
+
+GUM_academic_eegimaa-34	5	language	NN
+
+GUM_academic_eegimaa-34	6	whose	IN
+
+GUM_academic_eegimaa-34	7	transmission	NN
+
+GUM_academic_eegimaa-34	8	to	IN
+
+GUM_academic_eegimaa-34	9	new	JJ
+
+GUM_academic_eegimaa-34	10	generations	NN
+
+GUM_academic_eegimaa-34	11	has	VBZ
+
+GUM_academic_eegimaa-34	12	been	VBN
+
+GUM_academic_eegimaa-34	13	declining	IN
+
+GUM_academic_eegimaa-34	14	significantly	NN
+
+GUM_academic_eegimaa-34	15	in	IN
+
+GUM_academic_eegimaa-34	16	the	DT
+
+GUM_academic_eegimaa-34	17	last	JJ
+
+GUM_academic_eegimaa-34	18	decades	NNS
+
+GUM_academic_eegimaa-34	19	.	.
+
+GUM_academic_eegimaa-35	1	It	PRP
+
+GUM_academic_eegimaa-35	2	is	VBZ
+
+GUM_academic_eegimaa-35	3	important	JJ
+
+GUM_academic_eegimaa-35	4	to	TO
+
+GUM_academic_eegimaa-35	5	understand	VB
+
+GUM_academic_eegimaa-35	6	the	DT
+
+GUM_academic_eegimaa-35	7	contact	JJ
+
+GUM_academic_eegimaa-35	8	situation	NN
+
+GUM_academic_eegimaa-35	9	of	IN
+
+GUM_academic_eegimaa-35	10	Eegimaa	NNP
+
+GUM_academic_eegimaa-35	11	,	,
+
+GUM_academic_eegimaa-35	12	because	IN
+
+GUM_academic_eegimaa-35	13	some	DT
+
+GUM_academic_eegimaa-35	14	of	IN
+
+GUM_academic_eegimaa-35	15	the	DT
+
+GUM_academic_eegimaa-35	16	ritual	NN
+
+GUM_academic_eegimaa-35	17	names	VBZ
+
+GUM_academic_eegimaa-35	18	analysed	VBN
+
+GUM_academic_eegimaa-35	19	in	IN
+
+GUM_academic_eegimaa-35	20	this	DT
+
+GUM_academic_eegimaa-35	21	paper	NN
+
+GUM_academic_eegimaa-35	22	come	NN
+
+GUM_academic_eegimaa-35	23	from	IN
+
+GUM_academic_eegimaa-35	24	other	JJ
+
+GUM_academic_eegimaa-35	25	languages	NNS
+
+GUM_academic_eegimaa-35	26	or	CC
+
+GUM_academic_eegimaa-35	27	from	IN
+
+GUM_academic_eegimaa-35	28	neighbouring	DT
+
+GUM_academic_eegimaa-35	29	communities	NN
+
+GUM_academic_eegimaa-35	30	.	.
+
+GUM_academic_eegimaa-36	1	These	DT
+
+GUM_academic_eegimaa-36	2	names	NNS
+
+GUM_academic_eegimaa-36	3	are	VBP
+
+GUM_academic_eegimaa-36	4	given	VBN
+
+GUM_academic_eegimaa-36	5	either	VBN
+
+GUM_academic_eegimaa-36	6	in	IN
+
+GUM_academic_eegimaa-36	7	Eegimaa	NN
+
+GUM_academic_eegimaa-36	8	or	CC
+
+GUM_academic_eegimaa-36	9	in	IN
+
+GUM_academic_eegimaa-36	10	a	DT
+
+GUM_academic_eegimaa-36	11	different	JJ
+
+GUM_academic_eegimaa-36	12	language	NN
+
+GUM_academic_eegimaa-36	13	.	.
+
+GUM_bio_dvorak-1	1	Antonín	PRP
+
+GUM_bio_dvorak-1	2	Dvořák	VBD
+
+GUM_bio_dvorak-2	1	Antonín	NNP
+
+GUM_bio_dvorak-2	2	Leopold	NNP
+
+GUM_bio_dvorak-2	3	Dvořák	.
+
+GUM_bio_dvorak-2	4	(	-LRB-
+
+GUM_bio_dvorak-2	5	/	CD
+
+GUM_bio_dvorak-2	6	d(ə)ˈvɔːrʒɑːk	-RRB-
+
+GUM_bio_dvorak-2	7	,	,
+
+GUM_bio_dvorak-2	8	-ʒæk	UH
+
+GUM_bio_dvorak-2	9	/	.
+
+GUM_bio_dvorak-2	10	d(ə)-VOR-zha(h)k	-LRB-
+
+GUM_bio_dvorak-2	11	;	CD
+
+GUM_bio_dvorak-2	12	Czech	-RRB-
+
+GUM_bio_dvorak-2	13	:	.
+
+GUM_bio_dvorak-2	14	[	-LRB-
+
+GUM_bio_dvorak-2	15	ˈantoɲiːn	CD
+
+GUM_bio_dvorak-2	16	ˈlɛopolt	SYM
+
+GUM_bio_dvorak-2	17	ˈdvor̝aːk	CD
+
+GUM_bio_dvorak-2	18	]	-RRB-
+
+GUM_bio_dvorak-2	19	;	-LRB-
+
+GUM_bio_dvorak-2	20	8	CD
+
+GUM_bio_dvorak-2	21	September	-RRB-
+
+GUM_bio_dvorak-2	22	1841	.
+
+GUM_bio_dvorak-2	23	–	-LRB-
+
+GUM_bio_dvorak-2	24	1	CD
+
+GUM_bio_dvorak-2	25	May	SYM
+
+GUM_bio_dvorak-2	26	1904	CD
+
+GUM_bio_dvorak-2	27	)	-RRB-
+
+GUM_bio_dvorak-2	28	was	VBD
+
+GUM_bio_dvorak-2	29	a	DT
+
+GUM_bio_dvorak-2	30	Czech	JJ
+
+GUM_bio_dvorak-2	31	composer	NN
+
+GUM_bio_dvorak-2	32	.	.
+
+GUM_bio_dvorak-3	1	After	IN
+
+GUM_bio_dvorak-3	2	Bedřich	DT
+
+GUM_bio_dvorak-3	3	Smetana	NN
+
+GUM_bio_dvorak-3	4	,	,
+
+GUM_bio_dvorak-3	5	he	PRP
+
+GUM_bio_dvorak-3	6	was	VBD
+
+GUM_bio_dvorak-3	7	the	DT
+
+GUM_bio_dvorak-3	8	next	JJ
+
+GUM_bio_dvorak-3	9	Czech	NN
+
+GUM_bio_dvorak-3	10	Romantic	NN
+
+GUM_bio_dvorak-3	11	-	HYPH
+
+GUM_bio_dvorak-3	12	era	JJ
+
+GUM_bio_dvorak-3	13	composer	NN
+
+GUM_bio_dvorak-3	14	to	IN
+
+GUM_bio_dvorak-3	15	achieve	DT
+
+GUM_bio_dvorak-3	16	worldwide	JJ
+
+GUM_bio_dvorak-3	17	recognition	NN
+
+GUM_bio_dvorak-3	18	.	.
+
+GUM_bio_dvorak-4	1	Following	IN
+
+GUM_bio_dvorak-4	2	Smetana's	DT
+
+GUM_bio_dvorak-4	3	Smetana	NN
+
+GUM_bio_dvorak-4	4	's	VBZ
+
+GUM_bio_dvorak-4	5	nationalist	DT
+
+GUM_bio_dvorak-4	6	example	NN
+
+GUM_bio_dvorak-4	7	,	,
+
+GUM_bio_dvorak-4	8	Dvořák	IN
+
+GUM_bio_dvorak-4	9	frequently	DT
+
+GUM_bio_dvorak-4	10	employed	JJ
+
+GUM_bio_dvorak-4	11	aspects	NNS
+
+GUM_bio_dvorak-4	12	,	,
+
+GUM_bio_dvorak-4	13	specifically	CD
+
+GUM_bio_dvorak-4	14	rhythms	-RRB-
+
+GUM_bio_dvorak-4	15	,	,
+
+GUM_bio_dvorak-4	16	of	IN
+
+GUM_bio_dvorak-4	17	the	DT
+
+GUM_bio_dvorak-4	18	folk	JJ
+
+GUM_bio_dvorak-4	19	music	NN
+
+GUM_bio_dvorak-4	20	of	IN
+
+GUM_bio_dvorak-4	21	Moravia	NN
+
+GUM_bio_dvorak-4	22	and	CC
+
+GUM_bio_dvorak-4	23	his	PRP$
+
+GUM_bio_dvorak-4	24	native	JJ
+
+GUM_bio_dvorak-4	25	Bohemia	NN
+
+GUM_bio_dvorak-4	26	.	.
+
+GUM_bio_dvorak-5	1	Dvořák's	_
+
+GUM_bio_dvorak-5	2	Dvořák	PRP
+
+GUM_bio_dvorak-5	3	's	VBZ
+
+GUM_bio_dvorak-5	4	own	JJ
+
+GUM_bio_dvorak-5	5	style	NN
+
+GUM_bio_dvorak-5	6	has	VBZ
+
+GUM_bio_dvorak-5	7	been	VBN
+
+GUM_bio_dvorak-5	8	described	VBN
+
+GUM_bio_dvorak-5	9	as	IN
+
+GUM_bio_dvorak-5	10	"	``
+
+GUM_bio_dvorak-5	11	the	DT
+
+GUM_bio_dvorak-5	12	fullest	JJ
+
+GUM_bio_dvorak-5	13	recreation	NN
+
+GUM_bio_dvorak-5	14	of	IN
+
+GUM_bio_dvorak-5	15	a	DT
+
+GUM_bio_dvorak-5	16	national	JJ
+
+GUM_bio_dvorak-5	17	idiom	NN
+
+GUM_bio_dvorak-5	18	with	IN
+
+GUM_bio_dvorak-5	19	that	DT
+
+GUM_bio_dvorak-5	20	of	IN
+
+GUM_bio_dvorak-5	21	the	DT
+
+GUM_bio_dvorak-5	22	symphonic	JJ
+
+GUM_bio_dvorak-5	23	tradition	NN
+
+GUM_bio_dvorak-5	24	,	,
+
+GUM_bio_dvorak-5	25	absorbing	CD
+
+GUM_bio_dvorak-5	26	folk	-RRB-
+
+GUM_bio_dvorak-5	27	influences	,
+
+GUM_bio_dvorak-5	28	and	CC
+
+GUM_bio_dvorak-5	29	finding	DT
+
+GUM_bio_dvorak-5	30	effective	JJ
+
+GUM_bio_dvorak-5	31	ways	NNS
+
+GUM_bio_dvorak-5	32	of	IN
+
+GUM_bio_dvorak-5	33	using	NN
+
+GUM_bio_dvorak-5	34	them	.
+
+GUM_bio_dvorak-5	35	"	''
+
+GUM_bio_dvorak-5	36	.	.
+
+GUM_bio_dvorak-5	37	[	-LRB-
+
+GUM_bio_dvorak-5	38	1	CD
+
+GUM_bio_dvorak-5	39	]	-RRB-
+
+GUM_bio_dvorak-6	1	Antonín	PRP
+
+GUM_bio_dvorak-6	2	Dvořák	VBD
+
+GUM_bio_dvorak-7	1	Dvořák	PRP
+
+GUM_bio_dvorak-7	2	displayed	VBD
+
+GUM_bio_dvorak-7	3	his	PRP$
+
+GUM_bio_dvorak-7	4	musical	JJ
+
+GUM_bio_dvorak-7	5	gifts	NNS
+
+GUM_bio_dvorak-7	6	at	IN
+
+GUM_bio_dvorak-7	7	an	DT
+
+GUM_bio_dvorak-7	8	early	JJ
+
+GUM_bio_dvorak-7	9	age	NN
+
+GUM_bio_dvorak-7	10	,	,
+
+GUM_bio_dvorak-7	11	being	VBG
+
+GUM_bio_dvorak-7	12	an	DT
+
+GUM_bio_dvorak-7	13	apt	NN
+
+GUM_bio_dvorak-7	14	violin	IN
+
+GUM_bio_dvorak-7	15	student	NN
+
+GUM_bio_dvorak-7	16	from	IN
+
+GUM_bio_dvorak-7	17	age	NN
+
+GUM_bio_dvorak-7	18	six	NN
+
+GUM_bio_dvorak-7	19	.	.
+
+GUM_bio_dvorak-8	1	The	DT
+
+GUM_bio_dvorak-8	2	first	JJ
+
+GUM_bio_dvorak-8	3	public	JJ
+
+GUM_bio_dvorak-8	4	performances	NNS
+
+GUM_bio_dvorak-8	5	of	IN
+
+GUM_bio_dvorak-8	6	his	PRP$
+
+GUM_bio_dvorak-8	7	works	NNS
+
+GUM_bio_dvorak-8	8	were	VBD
+
+GUM_bio_dvorak-8	9	in	IN
+
+GUM_bio_dvorak-8	10	Prague	NN
+
+GUM_bio_dvorak-8	11	in	IN
+
+GUM_bio_dvorak-8	12	1872	NN
+
+GUM_bio_dvorak-8	13	and	CC
+
+GUM_bio_dvorak-8	14	,	,
+
+GUM_bio_dvorak-8	15	with	IN
+
+GUM_bio_dvorak-8	16	special	JJ
+
+GUM_bio_dvorak-8	17	success	NN
+
+GUM_bio_dvorak-8	18	,	,
+
+GUM_bio_dvorak-8	19	in	IN
+
+GUM_bio_dvorak-8	20	1873	NNP
+
+GUM_bio_dvorak-8	21	,	,
+
+GUM_bio_dvorak-8	22	when	WRB
+
+GUM_bio_dvorak-8	23	he	PRP
+
+GUM_bio_dvorak-8	24	was	VBD
+
+GUM_bio_dvorak-8	25	aged	IN
+
+GUM_bio_dvorak-8	26	31	CD
+
+GUM_bio_dvorak-8	27	.	.
+
+GUM_bio_dvorak-9	1	Seeking	DT
+
+GUM_bio_dvorak-9	2	recognition	NN
+
+GUM_bio_dvorak-9	3	beyond	IN
+
+GUM_bio_dvorak-9	4	the	DT
+
+GUM_bio_dvorak-9	5	Prague	JJ
+
+GUM_bio_dvorak-9	6	area	NN
+
+GUM_bio_dvorak-9	7	,	,
+
+GUM_bio_dvorak-9	8	he	PRP
+
+GUM_bio_dvorak-9	9	submitted	VBD
+
+GUM_bio_dvorak-9	10	a	DT
+
+GUM_bio_dvorak-9	11	score	NN
+
+GUM_bio_dvorak-9	12	of	IN
+
+GUM_bio_dvorak-9	13	his	PRP$
+
+GUM_bio_dvorak-9	14	First	JJ
+
+GUM_bio_dvorak-9	15	Symphony	NN
+
+GUM_bio_dvorak-9	16	to	IN
+
+GUM_bio_dvorak-9	17	a	DT
+
+GUM_bio_dvorak-9	18	prize	JJ
+
+GUM_bio_dvorak-9	19	competition	NN
+
+GUM_bio_dvorak-9	20	in	IN
+
+GUM_bio_dvorak-9	21	Germany	NNP
+
+GUM_bio_dvorak-9	22	,	,
+
+GUM_bio_dvorak-9	23	but	CC
+
+GUM_bio_dvorak-9	24	did	VBD
+
+GUM_bio_dvorak-9	25	not	RB
+
+GUM_bio_dvorak-9	26	win	RB
+
+GUM_bio_dvorak-9	27	,	,
+
+GUM_bio_dvorak-9	28	and	CC
+
+GUM_bio_dvorak-9	29	the	DT
+
+GUM_bio_dvorak-9	30	unreturned	JJ
+
+GUM_bio_dvorak-9	31	manuscript	NN
+
+GUM_bio_dvorak-9	32	was	VBD
+
+GUM_bio_dvorak-9	33	lost	VBN
+
+GUM_bio_dvorak-9	34	until	IN
+
+GUM_bio_dvorak-9	35	rediscovered	DT
+
+GUM_bio_dvorak-9	36	many	JJ
+
+GUM_bio_dvorak-9	37	decades	NNS
+
+GUM_bio_dvorak-9	38	later	VBP
+
+GUM_bio_dvorak-9	39	.	.
+
+GUM_bio_dvorak-10	1	In	IN
+GUM_bio_dvorak-10	2	1874	_
+GUM_bio_dvorak-10	3	he	PRP
+GUM_bio_dvorak-10	4	made	VBD
+GUM_bio_dvorak-10	5	a	DT
+GUM_bio_dvorak-10	6	submission	NN
+GUM_bio_dvorak-10	7	to	IN
+GUM_bio_dvorak-10	8	the	DT
+GUM_bio_dvorak-10	9	Austrian	NNP
+GUM_bio_dvorak-10	10	State	NNP
+GUM_bio_dvorak-10	11	Prize	NNP
+GUM_bio_dvorak-10	12	for	IN
+GUM_bio_dvorak-10	13	Composition	NNP
+GUM_bio_dvorak-10	14	,	,
+GUM_bio_dvorak-10	15	including	VBG
+GUM_bio_dvorak-10	16	scores	NNS
+GUM_bio_dvorak-10	17	of	IN
+GUM_bio_dvorak-10	18	two	CD
+GUM_bio_dvorak-10	19	further	-RRB-
+GUM_bio_dvorak-10	20	symphonies	,
+GUM_bio_dvorak-10	21	and	CC
+GUM_bio_dvorak-10	22	other	JJ
+GUM_bio_dvorak-10	23	works	NNS
+GUM_bio_dvorak-10	24	.	.
