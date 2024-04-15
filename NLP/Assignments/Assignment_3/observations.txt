@@ -1,0 +1,42 @@
+ #39 - '
+ #36 - $
+ #151 - Remove
+ #8217 - '
+#147 - "
+#148 - "
+#160 - Remove
+\$ - Remove
+quot; - "
+
+&lt; is followed by
+ALL - Just remove 
+
+A
+/A
+
+Remove everything between &lt;A.*?&gt;.*?&lt;/A&gt; parts since its just a hyperref
+
+Remove all occurences of &lt;br&gt; or &lt;br/&gt;
+
+Remove all occurences of &lt;b&gt;...&lt;/b&gt;
+
+Remove all &lt;strong&gt;
+Remove all &lt;/strong&gt;
+
+Remove all &lt;font.*?/font&gt;
+
+Remove all &lt;cite&gt;is&lt;/cite&gt;
+
+Remove all occurences of &lt;p&gt;
+Remove all occurences of &lt;/p&gt;
+Remove all occurences of \&lt;p&gt;
+
+Remove occurences of \&lt;hpq.n&gt;
+
+Remove all &lt;img.*?&gt;
+
+Remove all &lt;nobr&gt;.*?&lt;/nobr&gt;
+
+Remove &lt;i&gt;, &lt;/i&gt;
+
+Escape characters - \', \n, \r, \t, \b, \f, \" 
