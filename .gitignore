@@ -6,6 +6,9 @@
 # Cache
 *__pycache__*
 
+# Test files
+*test.py
+
 # Large files
 
 # Utility directories
