@@ -7,4 +7,6 @@ I have 3 subjects
 
 I will be uploading materials and assignment codes(hopefully some notes but that's an uphill battle)
 
+For PYQs use [mfqp](https://qp.metakgp.org/) or this link while using institute LAN or Wi-Fi
+
 KThxBye
