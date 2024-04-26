@@ -6,6 +6,7 @@ In the divisive clustering part, I used flat clustering algorithm(K-means) by mi
 
 The correct algorithm is to find a leading point(farthest point from all points) from each cluster, and then divide the cluster into two clusters based on the leading point. This process is repeated until we reach k clusters.
 
+`
 while len(clusters) < k:
     max_dist_cluster = -1
     for cluster in clusters:
@@ -14,6 +15,7 @@ while len(clusters) < k:
     divide the max_dist_cluster into two clusters based on the leading point
 
     update the clusters list
+`
 
 # Running instructions:
 
